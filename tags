@@ -1,0 +1,809 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+CHECK_ERROR	build/lib.linux-x86_64-3.6/kama.py	/^    def CHECK_ERROR(self, *args): return _kama.Tagger_CHECK_ERROR(self, *args)$/;"	m	class:Tagger
+CHECK_ERROR	kama.h	/^			inline void CHECK_ERROR(const void *eval){$/;"	f	class:Kama::Tagger
+CHECK_ERROR	kama.py	/^    def CHECK_ERROR(self, *args): return _kama.Tagger_CHECK_ERROR(self, *args)$/;"	m	class:Tagger
+CHECK_ERROR	lib/python3.6/site-packages/kama.py	/^    def CHECK_ERROR(self, *args): return _kama.Tagger_CHECK_ERROR(self, *args)$/;"	m	class:Tagger
+DictionaryInfo	mecab.h	/^typedef struct mecab_dictionary_info_t DictionaryInfo;$/;"	t	namespace:MeCab	typeref:struct:MeCab::mecab_dictionary_info_t
+GCC_HASCLASSVISIBILITY	kama_wrap.cxx	107;"	d	file:
+INSTALL_PATH	Makefile	/^INSTALL_PATH=.$/;"	m
+Kama	kama.cpp	/^namespace Kama{$/;"	n	file:
+Kama	kama.h	/^namespace Kama{$/;"	n
+Kmorph	version.h	/^namespace Kmorph {$/;"	n
+LIB_PATH	Makefile	/^LIB_PATH=.$/;"	m
+LLONG_MAX	kama_wrap.cxx	3476;"	d	file:
+LLONG_MIN	kama_wrap.cxx	3477;"	d	file:
+Lattice	mecab.h	/^class MECAB_DLL_CLASS_EXTERN Lattice {$/;"	c	namespace:MeCab
+MECAB_ALLOCATE_SENTENCE	mecab.h	/^  MECAB_ALLOCATE_SENTENCE = 64$/;"	e	enum:__anon7
+MECAB_ALL_MORPHS	mecab.h	/^  MECAB_ALL_MORPHS        = 32,$/;"	e	enum:__anon7
+MECAB_ALTERNATIVE	mecab.h	/^  MECAB_ALTERNATIVE       = 16,$/;"	e	enum:__anon7
+MECAB_ANY_BOUNDARY	mecab.h	/^  MECAB_ANY_BOUNDARY = 0,$/;"	e	enum:__anon8
+MECAB_BOS_NODE	mecab.h	/^  MECAB_BOS_NODE = 2,$/;"	e	enum:__anon5
+MECAB_DLL_CLASS_EXTERN	mecab.h	342;"	d
+MECAB_DLL_CLASS_EXTERN	mecab.h	353;"	d
+MECAB_DLL_EXTERN	mecab.h	341;"	d
+MECAB_DLL_EXTERN	mecab.h	344;"	d
+MECAB_DLL_EXTERN	mecab.h	349;"	d
+MECAB_EON_NODE	mecab.h	/^  MECAB_EON_NODE = 4$/;"	e	enum:__anon5
+MECAB_EOS_NODE	mecab.h	/^  MECAB_EOS_NODE = 3,$/;"	e	enum:__anon5
+MECAB_INSIDE_TOKEN	mecab.h	/^  MECAB_INSIDE_TOKEN = 2$/;"	e	enum:__anon8
+MECAB_MARGINAL_PROB	mecab.h	/^  MECAB_MARGINAL_PROB     = 8,$/;"	e	enum:__anon7
+MECAB_MECAB_H_	mecab.h	8;"	d
+MECAB_NBEST	mecab.h	/^  MECAB_NBEST             = 2,$/;"	e	enum:__anon7
+MECAB_NOR_NODE	mecab.h	/^  MECAB_NOR_NODE = 0,$/;"	e	enum:__anon5
+MECAB_ONE_BEST	mecab.h	/^  MECAB_ONE_BEST          = 1,$/;"	e	enum:__anon7
+MECAB_PARTIAL	mecab.h	/^  MECAB_PARTIAL           = 4,$/;"	e	enum:__anon7
+MECAB_SYS_DIC	mecab.h	/^  MECAB_SYS_DIC = 0,$/;"	e	enum:__anon6
+MECAB_TOKEN_BOUNDARY	mecab.h	/^  MECAB_TOKEN_BOUNDARY = 1,$/;"	e	enum:__anon8
+MECAB_UNK_DIC	mecab.h	/^  MECAB_UNK_DIC = 2$/;"	e	enum:__anon6
+MECAB_UNK_NODE	mecab.h	/^  MECAB_UNK_NODE = 1,$/;"	e	enum:__anon5
+MECAB_USR_DIC	mecab.h	/^  MECAB_USR_DIC = 1,$/;"	e	enum:__anon6
+MeCab	mecab.h	/^namespace MeCab {$/;"	n
+Model	mecab.h	/^class MECAB_DLL_CLASS_EXTERN Model {$/;"	c	namespace:MeCab
+Node	build/lib.linux-x86_64-3.6/kama.py	/^class Node(_object):$/;"	c
+Node	kama.h	/^	} Node;$/;"	t	namespace:Kama	typeref:struct:Kama::_Node
+Node	kama.py	/^class Node(_object):$/;"	c
+Node	lib/python3.6/site-packages/kama.py	/^class Node(_object):$/;"	c
+Node	mecab.h	/^typedef struct mecab_node_t            Node;$/;"	t	namespace:MeCab	typeref:struct:MeCab::mecab_node_t
+Node_swigregister	build/lib.linux-x86_64-3.6/kama.py	/^Node_swigregister = _kama.Node_swigregister$/;"	v
+Node_swigregister	kama.py	/^Node_swigregister = _kama.Node_swigregister$/;"	v
+Node_swigregister	lib/python3.6/site-packages/kama.py	/^Node_swigregister = _kama.Node_swigregister$/;"	v
+PREFIX	Makefile	/^PREFIX=kama$/;"	m
+PY_SSIZE_T_MAX	kama_wrap.cxx	901;"	d	file:
+PY_SSIZE_T_MIN	kama_wrap.cxx	902;"	d	file:
+Path	mecab.h	/^typedef struct mecab_path_t            Path;$/;"	t	namespace:MeCab	typeref:struct:MeCab::mecab_path_t
+PyBool_FromLong	kama_wrap.cxx	/^PyObject *PyBool_FromLong(long ok)$/;"	f	file:
+PyClass_Check	kama_wrap.cxx	750;"	d	file:
+PyDescr_NAME	kama_wrap.cxx	963;"	d	file:
+PyDescr_TYPE	kama_wrap.cxx	962;"	d	file:
+PyExc_StopIteration	kama_wrap.cxx	857;"	d	file:
+PyHeapTypeObject	kama_wrap.cxx	/^} PyHeapTypeObject;$/;"	t	typeref:struct:__anon1	file:
+PyInt_AsLong	kama_wrap.cxx	752;"	d	file:
+PyInt_Check	kama_wrap.cxx	751;"	d	file:
+PyInt_FromLong	kama_wrap.cxx	753;"	d	file:
+PyInt_FromSize_t	kama_wrap.cxx	754;"	d	file:
+PyInt_FromSize_t	kama_wrap.cxx	925;"	d	file:
+PyModule_AddObject	kama_wrap.cxx	/^PyModule_AddObject(PyObject *m, char *name, PyObject *o)$/;"	f
+PyNumber_AsSsize_t	kama_wrap.cxx	/^static long PyNumber_AsSsize_t (PyObject *x, void *SWIGUNUSEDPARM(exc))$/;"	f	file:
+PyOS_snprintf	kama_wrap.cxx	821;"	d	file:
+PyOS_snprintf	kama_wrap.cxx	823;"	d	file:
+PyObject_DEL	kama_wrap.cxx	851;"	d	file:
+PyObject_Del	kama_wrap.cxx	848;"	d	file:
+PyObject_GenericGetAttr	kama_wrap.cxx	860;"	d	file:
+PySequence_Size	kama_wrap.cxx	881;"	d	file:
+PyString_AS_STRING	kama_wrap.cxx	762;"	d	file:
+PyString_AsString	kama_wrap.cxx	758;"	d	file:
+PyString_AsStringAndSize	kama_wrap.cxx	874;"	d	file:
+PyString_Check	kama_wrap.cxx	755;"	d	file:
+PyString_Format	kama_wrap.cxx	757;"	d	file:
+PyString_FromFormat	kama_wrap.cxx	/^PyString_FromFormat(const char *fmt, ...) {$/;"	f	file:
+PyString_FromString	kama_wrap.cxx	756;"	d	file:
+PyString_InternFromString	kama_wrap.cxx	760;"	d	file:
+PyString_Size	kama_wrap.cxx	759;"	d	file:
+Py_None	kama_wrap.cxx	1406;"	d	file:
+Py_None	kama_wrap.cxx	1407;"	d	file:
+Py_NotImplemented	kama_wrap.cxx	867;"	d	file:
+Py_TPFLAGS_HAVE_CLASS	kama_wrap.cxx	761;"	d	file:
+Py_TYPE	kama_wrap.cxx	768;"	d	file:
+Py_VISIT	kama_wrap.cxx	929;"	d	file:
+Py_ssize_t	kama_wrap.cxx	/^typedef int Py_ssize_t;$/;"	t	file:
+SWIG	Makefile	/^SWIG=swig$/;"	m
+SWIGEXPORT	kama_wrap.cxx	114;"	d	file:
+SWIGEXPORT	kama_wrap.cxx	116;"	d	file:
+SWIGEXPORT	kama_wrap.cxx	120;"	d	file:
+SWIGEXPORT	kama_wrap.cxx	122;"	d	file:
+SWIGINLINE	kama_wrap.cxx	59;"	d	file:
+SWIGINLINE	kama_wrap.cxx	61;"	d	file:
+SWIGINTERN	kama_wrap.cxx	96;"	d	file:
+SWIGINTERNINLINE	kama_wrap.cxx	101;"	d	file:
+SWIGPYTHON	kama_wrap.cxx	11;"	d	file:
+SWIGPY_CAPSULE_NAME	kama_wrap.cxx	958;"	d	file:
+SWIGPY_SLICE_ARG	kama_wrap.cxx	3051;"	d	file:
+SWIGPY_USE_CAPSULE	kama_wrap.cxx	957;"	d	file:
+SWIGRUNTIME	kama_wrap.cxx	187;"	d	file:
+SWIGRUNTIMEINLINE	kama_wrap.cxx	191;"	d	file:
+SWIGSTDCALL	kama_wrap.cxx	130;"	d	file:
+SWIGSTDCALL	kama_wrap.cxx	132;"	d	file:
+SWIGTEMPLATEDISAMBIGUATOR	kama_wrap.cxx	46;"	d	file:
+SWIGTEMPLATEDISAMBIGUATOR	kama_wrap.cxx	50;"	d	file:
+SWIGTEMPLATEDISAMBIGUATOR	kama_wrap.cxx	52;"	d	file:
+SWIGTYPE_p_Kama__Tagger	kama_wrap.cxx	2940;"	d	file:
+SWIGTYPE_p_Kama___Node	kama_wrap.cxx	2941;"	d	file:
+SWIGTYPE_p_char	kama_wrap.cxx	2942;"	d	file:
+SWIGTYPE_p_std__invalid_argument	kama_wrap.cxx	2943;"	d	file:
+SWIGTYPE_p_std__listT_char_const_p_std__allocatorT_char_const_p_t_t	kama_wrap.cxx	2944;"	d	file:
+SWIGTYPE_p_swig__SwigPyIterator	kama_wrap.cxx	2945;"	d	file:
+SWIGUNUSED	kama_wrap.cxx	69;"	d	file:
+SWIGUNUSED	kama_wrap.cxx	71;"	d	file:
+SWIGUNUSED	kama_wrap.cxx	74;"	d	file:
+SWIGUNUSED	kama_wrap.cxx	76;"	d	file:
+SWIGUNUSEDPARM	kama_wrap.cxx	/^  swig_varlink_repr(swig_varlinkobject *SWIGUNUSEDPARM(v)) {$/;"	f
+SWIGUNUSEDPARM	kama_wrap.cxx	/^SWIGRUNTIME PyObject* SWIG_PyInstanceMethod_New(PyObject *SWIGUNUSEDPARM(self), PyObject *SWIGUNUSEDPARM(func))$/;"	f
+SWIGUNUSEDPARM	kama_wrap.cxx	88;"	d	file:
+SWIGUNUSEDPARM	kama_wrap.cxx	90;"	d	file:
+SWIGVERSION	kama_wrap.cxx	2971;"	d	file:
+SWIG_AcquirePtr	kama_wrap.cxx	1177;"	d	file:
+SWIG_AddCast	kama_wrap.cxx	/^SWIGINTERNINLINE int SWIG_AddCast(int r) {$/;"	f
+SWIG_AddCast	kama_wrap.cxx	327;"	d	file:
+SWIG_AddNewMask	kama_wrap.cxx	303;"	d	file:
+SWIG_AddTmpMask	kama_wrap.cxx	306;"	d	file:
+SWIG_ArgError	kama_wrap.cxx	289;"	d	file:
+SWIG_AsCharPtrAndSize	kama_wrap.cxx	/^SWIG_AsCharPtrAndSize(PyObject *obj, char** cptr, size_t* psize, int *alloc)$/;"	f
+SWIG_AsVal_double	kama_wrap.cxx	/^SWIG_AsVal_double (PyObject *obj, double *val)$/;"	f
+SWIG_AsVal_long	kama_wrap.cxx	/^SWIG_AsVal_long (PyObject *obj, long* val)$/;"	f
+SWIG_AsVal_ptrdiff_t	kama_wrap.cxx	/^SWIG_AsVal_ptrdiff_t (PyObject * obj, ptrdiff_t *val)$/;"	f
+SWIG_AsVal_size_t	kama_wrap.cxx	/^SWIG_AsVal_size_t (PyObject * obj, size_t *val)$/;"	f
+SWIG_AsVal_unsigned_SS_int	kama_wrap.cxx	/^SWIG_AsVal_unsigned_SS_int (PyObject * obj, unsigned int *val)$/;"	f
+SWIG_AsVal_unsigned_SS_long	kama_wrap.cxx	/^SWIG_AsVal_unsigned_SS_long (PyObject *obj, unsigned long *val) $/;"	f
+SWIG_AttributeError	kama_wrap.cxx	741;"	d	file:
+SWIG_BADOBJ	kama_wrap.cxx	298;"	d	file:
+SWIG_BUFFER_SIZE	kama_wrap.cxx	196;"	d	file:
+SWIG_BUILTIN_INIT	kama_wrap.cxx	1389;"	d	file:
+SWIG_BUILTIN_TP_INIT	kama_wrap.cxx	1388;"	d	file:
+SWIG_CASTRANKLIMIT	kama_wrap.cxx	292;"	d	file:
+SWIG_CASTRANKMASK	kama_wrap.cxx	318;"	d	file:
+SWIG_CAST_NEW_MEMORY	kama_wrap.cxx	201;"	d	file:
+SWIG_CanCastAsInteger	kama_wrap.cxx	/^SWIG_CanCastAsInteger(double *d, double min, double max) {$/;"	f
+SWIG_CastRank	kama_wrap.cxx	319;"	d	file:
+SWIG_CheckImplicit	kama_wrap.cxx	1176;"	d	file:
+SWIG_CheckState	kama_wrap.cxx	/^SWIGINTERNINLINE int SWIG_CheckState(int r) {$/;"	f
+SWIG_CheckState	kama_wrap.cxx	328;"	d	file:
+SWIG_ConvertFunctionPtr	kama_wrap.cxx	1189;"	d	file:
+SWIG_ConvertInstance	kama_wrap.cxx	1185;"	d	file:
+SWIG_ConvertMember	kama_wrap.cxx	1193;"	d	file:
+SWIG_ConvertPacked	kama_wrap.cxx	1181;"	d	file:
+SWIG_ConvertPtr	kama_wrap.cxx	1165;"	d	file:
+SWIG_ConvertPtrAndOwn	kama_wrap.cxx	1166;"	d	file:
+SWIG_DelNewMask	kama_wrap.cxx	304;"	d	file:
+SWIG_DelTmpMask	kama_wrap.cxx	307;"	d	file:
+SWIG_DivisionByZero	kama_wrap.cxx	736;"	d	file:
+SWIG_ERROR	kama_wrap.cxx	287;"	d	file:
+SWIG_EXPAND_AND_QUOTE_STRING	kama_wrap.cxx	171;"	d	file:
+SWIG_Error	kama_wrap.cxx	1206;"	d	file:
+SWIG_ErrorType	kama_wrap.cxx	1205;"	d	file:
+SWIG_FromCharPtr	kama_wrap.cxx	/^SWIG_FromCharPtr(const char *cptr)$/;"	f
+SWIG_FromCharPtrAndSize	kama_wrap.cxx	/^SWIG_FromCharPtrAndSize(const char* carray, size_t size)$/;"	f
+SWIG_From_bool	kama_wrap.cxx	/^  SWIG_From_bool  (bool value)$/;"	f
+SWIG_From_long	kama_wrap.cxx	3351;"	d	file:
+SWIG_From_ptrdiff_t	kama_wrap.cxx	/^SWIG_From_ptrdiff_t  (ptrdiff_t value)$/;"	f
+SWIG_From_unsigned_SS_int	kama_wrap.cxx	/^  SWIG_From_unsigned_SS_int  (unsigned int value)$/;"	f
+SWIG_GetModule	kama_wrap.cxx	1199;"	d	file:
+SWIG_IOError	kama_wrap.cxx	732;"	d	file:
+SWIG_IndexError	kama_wrap.cxx	734;"	d	file:
+SWIG_InitializeModule	kama_wrap.cxx	/^SWIG_InitializeModule(void *clientdata) {$/;"	f
+SWIG_InstallConstants	kama_wrap.cxx	5712;"	d	file:
+SWIG_InternalNewPointerObj	kama_wrap.cxx	1174;"	d	file:
+SWIG_IsNewObj	kama_wrap.cxx	305;"	d	file:
+SWIG_IsOK	kama_wrap.cxx	288;"	d	file:
+SWIG_IsTmpObj	kama_wrap.cxx	308;"	d	file:
+SWIG_MAXCASTRANK	kama_wrap.cxx	316;"	d	file:
+SWIG_MangledTypeQuery	kama_wrap.cxx	2949;"	d	file:
+SWIG_MangledTypeQueryModule	kama_wrap.cxx	/^SWIG_MangledTypeQueryModule(swig_module_info *start,$/;"	f
+SWIG_MemoryError	kama_wrap.cxx	742;"	d	file:
+SWIG_MustGetPtr	kama_wrap.cxx	2765;"	d	file:
+SWIG_NEWOBJ	kama_wrap.cxx	300;"	d	file:
+SWIG_NEWOBJMASK	kama_wrap.cxx	294;"	d	file:
+SWIG_NewClientData	kama_wrap.cxx	1201;"	d	file:
+SWIG_NewFunctionPtrObj	kama_wrap.cxx	1190;"	d	file:
+SWIG_NewInstanceObj	kama_wrap.cxx	1186;"	d	file:
+SWIG_NewMemberObj	kama_wrap.cxx	1194;"	d	file:
+SWIG_NewPackedObj	kama_wrap.cxx	1182;"	d	file:
+SWIG_NewPointerObj	kama_wrap.cxx	1169;"	d	file:
+SWIG_NewPointerObj	kama_wrap.cxx	1171;"	d	file:
+SWIG_NullReferenceError	kama_wrap.cxx	743;"	d	file:
+SWIG_OK	kama_wrap.cxx	286;"	d	file:
+SWIG_OLDOBJ	kama_wrap.cxx	299;"	d	file:
+SWIG_OverflowError	kama_wrap.cxx	737;"	d	file:
+SWIG_POINTER_DISOWN	kama_wrap.cxx	200;"	d	file:
+SWIG_POINTER_EXCEPTION	kama_wrap.cxx	2763;"	d	file:
+SWIG_POINTER_IMPLICIT_CONV	kama_wrap.cxx	1386;"	d	file:
+SWIG_POINTER_NEW	kama_wrap.cxx	1384;"	d	file:
+SWIG_POINTER_NOSHADOW	kama_wrap.cxx	1383;"	d	file:
+SWIG_POINTER_OWN	kama_wrap.cxx	204;"	d	file:
+SWIG_PYBUFFER_SIZE	kama_wrap.cxx	831;"	d	file:
+SWIG_PYTHON_BUILD_NONE	kama_wrap.cxx	1399;"	d	file:
+SWIG_PYTHON_DIRECTOR_NO_VTABLE	kama_wrap.cxx	12;"	d	file:
+SWIG_PYTHON_INITIALIZE_THREADS	kama_wrap.cxx	1050;"	d	file:
+SWIG_PYTHON_INITIALIZE_THREADS	kama_wrap.cxx	1081;"	d	file:
+SWIG_PYTHON_INITIALIZE_THREADS	kama_wrap.cxx	1097;"	d	file:
+SWIG_PYTHON_SLOW_GETSET_THIS	kama_wrap.cxx	2194;"	d	file:
+SWIG_PYTHON_THREADS	kama_wrap.cxx	1039;"	d	file:
+SWIG_PYTHON_THREAD_BEGIN_ALLOW	kama_wrap.cxx	1071;"	d	file:
+SWIG_PYTHON_THREAD_BEGIN_ALLOW	kama_wrap.cxx	1076;"	d	file:
+SWIG_PYTHON_THREAD_BEGIN_ALLOW	kama_wrap.cxx	1090;"	d	file:
+SWIG_PYTHON_THREAD_BEGIN_ALLOW	kama_wrap.cxx	1100;"	d	file:
+SWIG_PYTHON_THREAD_BEGIN_BLOCK	kama_wrap.cxx	1069;"	d	file:
+SWIG_PYTHON_THREAD_BEGIN_BLOCK	kama_wrap.cxx	1074;"	d	file:
+SWIG_PYTHON_THREAD_BEGIN_BLOCK	kama_wrap.cxx	1084;"	d	file:
+SWIG_PYTHON_THREAD_BEGIN_BLOCK	kama_wrap.cxx	1098;"	d	file:
+SWIG_PYTHON_THREAD_END_ALLOW	kama_wrap.cxx	1072;"	d	file:
+SWIG_PYTHON_THREAD_END_ALLOW	kama_wrap.cxx	1077;"	d	file:
+SWIG_PYTHON_THREAD_END_ALLOW	kama_wrap.cxx	1093;"	d	file:
+SWIG_PYTHON_THREAD_END_ALLOW	kama_wrap.cxx	1101;"	d	file:
+SWIG_PYTHON_THREAD_END_BLOCK	kama_wrap.cxx	1070;"	d	file:
+SWIG_PYTHON_THREAD_END_BLOCK	kama_wrap.cxx	1075;"	d	file:
+SWIG_PYTHON_THREAD_END_BLOCK	kama_wrap.cxx	1087;"	d	file:
+SWIG_PYTHON_THREAD_END_BLOCK	kama_wrap.cxx	1099;"	d	file:
+SWIG_PYTHON_USE_GIL	kama_wrap.cxx	1045;"	d	file:
+SWIG_PY_BINARY	kama_wrap.cxx	1118;"	d	file:
+SWIG_PY_POINTER	kama_wrap.cxx	1117;"	d	file:
+SWIG_PackData	kama_wrap.cxx	/^SWIG_PackData(char *c, void *ptr, size_t sz) {$/;"	f
+SWIG_PackDataName	kama_wrap.cxx	/^SWIG_PackDataName(char *buff, void *ptr, size_t sz, const char *name, size_t bsz) {$/;"	f
+SWIG_PackVoidPtr	kama_wrap.cxx	/^SWIG_PackVoidPtr(char *buff, void *ptr, const char *name, size_t bsz) {$/;"	f
+SWIG_PropagateClientData	kama_wrap.cxx	/^SWIG_PropagateClientData(void) {$/;"	f
+SWIG_Py_None	kama_wrap.cxx	/^SWIG_Py_None(void)$/;"	f
+SWIG_Py_Void	kama_wrap.cxx	/^SWIG_Py_Void(void)$/;"	f
+SWIG_Python_AcquirePtr	kama_wrap.cxx	/^SWIG_Python_AcquirePtr(PyObject *obj, int own) {$/;"	f
+SWIG_Python_AddErrMesg	kama_wrap.cxx	/^SWIG_Python_AddErrMesg(const char* mesg, int infront)$/;"	f
+SWIG_Python_AddErrorMsg	kama_wrap.cxx	/^SWIG_Python_AddErrorMsg(const char* mesg)$/;"	f
+SWIG_Python_AppendOutput	kama_wrap.cxx	/^SWIG_Python_AppendOutput(PyObject* result, PyObject* obj) {$/;"	f
+SWIG_Python_ArgFail	kama_wrap.cxx	/^SWIG_Python_ArgFail(int argnum)$/;"	f
+SWIG_Python_CallFunctor	kama_wrap.cxx	1363;"	d	file:
+SWIG_Python_CallFunctor	kama_wrap.cxx	1365;"	d	file:
+SWIG_Python_CheckImplicit	kama_wrap.cxx	/^SWIG_Python_CheckImplicit(swig_type_info *ty)$/;"	f
+SWIG_Python_ConvertFunctionPtr	kama_wrap.cxx	/^SWIG_Python_ConvertFunctionPtr(PyObject *obj, void **ptr, swig_type_info *ty) {$/;"	f
+SWIG_Python_ConvertPacked	kama_wrap.cxx	/^SWIG_Python_ConvertPacked(PyObject *obj, void *ptr, size_t sz, swig_type_info *ty) {$/;"	f
+SWIG_Python_ConvertPtr	kama_wrap.cxx	1164;"	d	file:
+SWIG_Python_ConvertPtrAndOwn	kama_wrap.cxx	/^SWIG_Python_ConvertPtrAndOwn(PyObject *obj, void **ptr, swig_type_info *ty, int flags, int *own) {$/;"	f
+SWIG_Python_DestroyModule	kama_wrap.cxx	/^SWIG_Python_DestroyModule(PyObject *obj)$/;"	f
+SWIG_Python_ErrorType	kama_wrap.cxx	/^SWIG_Python_ErrorType(int code) {$/;"	f
+SWIG_Python_ExceptionType	kama_wrap.cxx	/^SWIG_Python_ExceptionType(swig_type_info *desc) {$/;"	f
+SWIG_Python_FixMethods	kama_wrap.cxx	/^  SWIG_Python_FixMethods(PyMethodDef *methods,$/;"	f
+SWIG_Python_GetModule	kama_wrap.cxx	/^SWIG_Python_GetModule(void *SWIGUNUSEDPARM(clientdata)) {$/;"	f
+SWIG_Python_GetSwigThis	kama_wrap.cxx	/^SWIG_Python_GetSwigThis(PyObject *pyobj) $/;"	f
+SWIG_Python_InitShadowInstance	kama_wrap.cxx	/^SWIG_Python_InitShadowInstance(PyObject *args) {$/;"	f
+SWIG_Python_InstallConstants	kama_wrap.cxx	/^  SWIG_Python_InstallConstants(PyObject *d, swig_const_info constants[]) {$/;"	f
+SWIG_Python_MustGetPtr	kama_wrap.cxx	/^SWIG_Python_MustGetPtr(PyObject *obj, swig_type_info *ty, int SWIGUNUSEDPARM(argnum), int flags) {$/;"	f
+SWIG_Python_NewPackedObj	kama_wrap.cxx	/^SWIG_Python_NewPackedObj(void *ptr, size_t sz, swig_type_info *type) {$/;"	f
+SWIG_Python_NewPointerObj	kama_wrap.cxx	/^SWIG_Python_NewPointerObj(PyObject *self, void *ptr, swig_type_info *type, int flags) {$/;"	f
+SWIG_Python_NewShadowInstance	kama_wrap.cxx	/^SWIG_Python_NewShadowInstance(SwigPyClientData *data, PyObject *swig_this)$/;"	f
+SWIG_Python_NonDynamicSetAttr	kama_wrap.cxx	/^SWIG_Python_NonDynamicSetAttr(PyObject *obj, PyObject *name, PyObject *value) {$/;"	f
+SWIG_Python_Raise	kama_wrap.cxx	1229;"	d	file:
+SWIG_Python_SetConstant	kama_wrap.cxx	/^SWIG_Python_SetConstant(PyObject *d, PyObject *public_interface, const char *name, PyObject *obj) {   $/;"	f
+SWIG_Python_SetConstant	kama_wrap.cxx	/^SWIG_Python_SetConstant(PyObject *d, const char *name, PyObject *obj) {   $/;"	f
+SWIG_Python_SetErrorMsg	kama_wrap.cxx	/^SWIG_Python_SetErrorMsg(PyObject *errtype, const char *msg) {$/;"	f
+SWIG_Python_SetErrorObj	kama_wrap.cxx	/^SWIG_Python_SetErrorObj(PyObject *errtype, PyObject *obj) {$/;"	f
+SWIG_Python_SetModule	kama_wrap.cxx	/^SWIG_Python_SetModule(swig_module_info *swig_module) {$/;"	f
+SWIG_Python_SetSwigThis	kama_wrap.cxx	/^SWIG_Python_SetSwigThis(PyObject *inst, PyObject *swig_this)$/;"	f
+SWIG_Python_Thread_Allow	kama_wrap.cxx	/^         SWIG_Python_Thread_Allow() : status(true), save(PyEval_SaveThread()) {}$/;"	f	class:SWIG_Python_Thread_Allow
+SWIG_Python_Thread_Allow	kama_wrap.cxx	/^       class SWIG_Python_Thread_Allow {$/;"	c	file:
+SWIG_Python_Thread_Block	kama_wrap.cxx	/^         SWIG_Python_Thread_Block() : status(true), state(PyGILState_Ensure()) {}$/;"	f	class:SWIG_Python_Thread_Block
+SWIG_Python_Thread_Block	kama_wrap.cxx	/^       class SWIG_Python_Thread_Block {$/;"	c	file:
+SWIG_Python_TypeCache	kama_wrap.cxx	/^SWIG_Python_TypeCache(void) {$/;"	f
+SWIG_Python_TypeError	kama_wrap.cxx	/^SWIG_Python_TypeError(const char *type, PyObject *obj)$/;"	f
+SWIG_Python_TypeQuery	kama_wrap.cxx	/^SWIG_Python_TypeQuery(const char *type)$/;"	f
+SWIG_Python_UnpackTuple	kama_wrap.cxx	/^SWIG_Python_UnpackTuple(PyObject *args, const char *name, Py_ssize_t min, Py_ssize_t max, PyObject **objs)$/;"	f
+SWIG_Python_addvarlink	kama_wrap.cxx	/^  SWIG_Python_addvarlink(PyObject *p, char *name, PyObject *(*get_attr)(void), int (*set_attr)(PyObject *p)) {$/;"	f
+SWIG_Python_newvarlink	kama_wrap.cxx	/^  SWIG_Python_newvarlink(void) {$/;"	f
+SWIG_Python_str_AsChar	kama_wrap.cxx	/^SWIG_Python_str_AsChar(PyObject *str)$/;"	f
+SWIG_Python_str_DelForPy3	kama_wrap.cxx	802;"	d	file:
+SWIG_Python_str_DelForPy3	kama_wrap.cxx	804;"	d	file:
+SWIG_Python_str_FromChar	kama_wrap.cxx	/^SWIG_Python_str_FromChar(const char *c)$/;"	f
+SWIG_Python_str_FromFormat	kama_wrap.cxx	774;"	d	file:
+SWIG_Python_str_FromFormat	kama_wrap.cxx	776;"	d	file:
+SWIG_QUOTE_STRING	kama_wrap.cxx	170;"	d	file:
+SWIG_RUNTIME_VERSION	kama_wrap.cxx	166;"	d	file:
+SWIG_RuntimeError	kama_wrap.cxx	733;"	d	file:
+SWIG_STATIC_POINTER	kama_wrap.cxx	1373;"	d	file:
+SWIG_STATIC_POINTER	kama_wrap.cxx	1375;"	d	file:
+SWIG_STD_NOMODERN_STL	kama_wrap.cxx	3062;"	d	file:
+SWIG_SetErrorMsg	kama_wrap.cxx	1204;"	d	file:
+SWIG_SetErrorObj	kama_wrap.cxx	1203;"	d	file:
+SWIG_SetModule	kama_wrap.cxx	1200;"	d	file:
+SWIG_SyntaxError	kama_wrap.cxx	738;"	d	file:
+SWIG_SystemError	kama_wrap.cxx	740;"	d	file:
+SWIG_TMPOBJ	kama_wrap.cxx	301;"	d	file:
+SWIG_TMPOBJMASK	kama_wrap.cxx	296;"	d	file:
+SWIG_TYPE_TABLE_NAME	kama_wrap.cxx	172;"	d	file:
+SWIG_TYPE_TABLE_NAME	kama_wrap.cxx	174;"	d	file:
+SWIG_This	kama_wrap.cxx	/^SWIG_This(void)$/;"	f
+SWIG_TypeCast	kama_wrap.cxx	/^SWIG_TypeCast(swig_cast_info *ty, void *ptr, int *newmemory) {$/;"	f
+SWIG_TypeCheck	kama_wrap.cxx	/^SWIG_TypeCheck(const char *c, swig_type_info *ty) {$/;"	f
+SWIG_TypeCheckStruct	kama_wrap.cxx	/^SWIG_TypeCheckStruct(swig_type_info *from, swig_type_info *ty) {$/;"	f
+SWIG_TypeClientData	kama_wrap.cxx	/^SWIG_TypeClientData(swig_type_info *ti, void *clientdata) {$/;"	f
+SWIG_TypeCmp	kama_wrap.cxx	/^SWIG_TypeCmp(const char *nb, const char *tb) {$/;"	f
+SWIG_TypeDynamicCast	kama_wrap.cxx	/^SWIG_TypeDynamicCast(swig_type_info *ty, void **ptr) {$/;"	f
+SWIG_TypeEquiv	kama_wrap.cxx	/^SWIG_TypeEquiv(const char *nb, const char *tb) {$/;"	f
+SWIG_TypeError	kama_wrap.cxx	735;"	d	file:
+SWIG_TypeName	kama_wrap.cxx	/^SWIG_TypeName(const swig_type_info *ty) {$/;"	f
+SWIG_TypeNameComp	kama_wrap.cxx	/^SWIG_TypeNameComp(const char *f1, const char *l1,$/;"	f
+SWIG_TypeNewClientData	kama_wrap.cxx	/^SWIG_TypeNewClientData(swig_type_info *ti, void *clientdata) {$/;"	f
+SWIG_TypePrettyName	kama_wrap.cxx	/^SWIG_TypePrettyName(const swig_type_info *type) {$/;"	f
+SWIG_TypeQuery	kama_wrap.cxx	2948;"	d	file:
+SWIG_TypeQueryModule	kama_wrap.cxx	/^SWIG_TypeQueryModule(swig_module_info *start,$/;"	f
+SWIG_TypeRank	kama_wrap.cxx	313;"	d	file:
+SWIG_UnknownError	kama_wrap.cxx	731;"	d	file:
+SWIG_UnpackData	kama_wrap.cxx	/^SWIG_UnpackData(const char *c, void *ptr, size_t sz) {$/;"	f
+SWIG_UnpackDataName	kama_wrap.cxx	/^SWIG_UnpackDataName(const char *c, void *ptr, size_t sz, const char *name) {$/;"	f
+SWIG_UnpackVoidPtr	kama_wrap.cxx	/^SWIG_UnpackVoidPtr(const char *c, void **ptr, const char *name) {$/;"	f
+SWIG_VERSION	kama_wrap.cxx	2972;"	d	file:
+SWIG_ValueError	kama_wrap.cxx	739;"	d	file:
+SWIG_addvarlink	kama_wrap.cxx	5711;"	d	file:
+SWIG_arg_fail	kama_wrap.cxx	2764;"	d	file:
+SWIG_as_voidptr	kama_wrap.cxx	2975;"	d	file:
+SWIG_as_voidptrptr	kama_wrap.cxx	2976;"	d	file:
+SWIG_contract_assert	kama_wrap.cxx	2931;"	d	file:
+SWIG_exception	kama_wrap.cxx	2935;"	d	file:
+SWIG_exception_fail	kama_wrap.cxx	2929;"	d	file:
+SWIG_fail	kama_wrap.cxx	1207;"	d	file:
+SWIG_globals	kama_wrap.cxx	/^  SWIG_globals(void) {$/;"	f
+SWIG_init	kama_wrap.cxx	/^SWIG_init(void) {$/;"	f
+SWIG_init	kama_wrap.cxx	2963;"	d	file:
+SWIG_init	kama_wrap.cxx	2966;"	d	file:
+SWIG_name	kama_wrap.cxx	2969;"	d	file:
+SWIG_newvarlink	kama_wrap.cxx	5710;"	d	file:
+SWIG_pchar_descriptor	kama_wrap.cxx	/^SWIG_pchar_descriptor(void)$/;"	f
+SwigMethods	kama_wrap.cxx	/^static PyMethodDef SwigMethods[] = {$/;"	v	file:
+SwigMovePointer	kama_wrap.cxx	/^    SwigMovePointer(T *p) : ptr(p) { }$/;"	f	struct:SwigValueWrapper::SwigMovePointer
+SwigMovePointer	kama_wrap.cxx	/^  struct SwigMovePointer {$/;"	s	class:SwigValueWrapper	file:
+SwigPtr_PyObject	kama_wrap.cxx	/^    SwigPtr_PyObject() :_obj(0)$/;"	f	class:swig::SwigPtr_PyObject
+SwigPtr_PyObject	kama_wrap.cxx	/^    SwigPtr_PyObject(PyObject *obj, bool initial_ref = true) :_obj(obj)$/;"	f	class:swig::SwigPtr_PyObject
+SwigPtr_PyObject	kama_wrap.cxx	/^    SwigPtr_PyObject(const SwigPtr_PyObject& item) : _obj(item._obj)$/;"	f	class:swig::SwigPtr_PyObject
+SwigPtr_PyObject	kama_wrap.cxx	/^  class SwigPtr_PyObject {$/;"	c	namespace:swig	file:
+SwigPyBuiltin_AddPublicSymbol	kama_wrap.cxx	/^SwigPyBuiltin_AddPublicSymbol(PyObject *seq, const char *key) {$/;"	f
+SwigPyClientData	kama_wrap.cxx	/^} SwigPyClientData;$/;"	t	typeref:struct:__anon2	file:
+SwigPyClientData_Del	kama_wrap.cxx	/^SwigPyClientData_Del(SwigPyClientData *data) {$/;"	f
+SwigPyClientData_New	kama_wrap.cxx	/^SwigPyClientData_New(PyObject* obj)$/;"	f
+SwigPyIterator	build/lib.linux-x86_64-3.6/kama.py	/^class SwigPyIterator(_object):$/;"	c
+SwigPyIterator	kama.py	/^class SwigPyIterator(_object):$/;"	c
+SwigPyIterator	kama_wrap.cxx	/^    SwigPyIterator(PyObject *seq) : _seq(seq)$/;"	f	struct:swig::SwigPyIterator
+SwigPyIterator	kama_wrap.cxx	/^  struct SwigPyIterator {$/;"	s	namespace:swig	file:
+SwigPyIterator	lib/python3.6/site-packages/kama.py	/^class SwigPyIterator(_object):$/;"	c
+SwigPyIterator_swigregister	build/lib.linux-x86_64-3.6/kama.py	/^SwigPyIterator_swigregister = _kama.SwigPyIterator_swigregister$/;"	v
+SwigPyIterator_swigregister	kama.py	/^SwigPyIterator_swigregister = _kama.SwigPyIterator_swigregister$/;"	v
+SwigPyIterator_swigregister	lib/python3.6/site-packages/kama.py	/^SwigPyIterator_swigregister = _kama.SwigPyIterator_swigregister$/;"	v
+SwigPyObject	kama_wrap.cxx	/^} SwigPyObject;$/;"	t	typeref:struct:__anon3	file:
+SwigPyObject_Check	kama_wrap.cxx	/^SwigPyObject_Check(PyObject *op) {$/;"	f
+SwigPyObject_GetDesc	kama_wrap.cxx	/^SwigPyObject_GetDesc(PyObject *self)$/;"	f
+SwigPyObject_New	kama_wrap.cxx	/^SwigPyObject_New(void *ptr, swig_type_info *ty, int own)$/;"	f
+SwigPyObject_TypeOnce	kama_wrap.cxx	/^SwigPyObject_TypeOnce(void) {$/;"	f
+SwigPyObject_acquire	kama_wrap.cxx	/^SwigPyObject_acquire(PyObject *v)$/;"	f
+SwigPyObject_append	kama_wrap.cxx	/^SwigPyObject_append(PyObject* v, PyObject* next)$/;"	f
+SwigPyObject_compare	kama_wrap.cxx	/^SwigPyObject_compare(SwigPyObject *v, SwigPyObject *w)$/;"	f
+SwigPyObject_dealloc	kama_wrap.cxx	/^SwigPyObject_dealloc(PyObject *v)$/;"	f
+SwigPyObject_disown	kama_wrap.cxx	/^SwigPyObject_disown(PyObject *v)$/;"	f
+SwigPyObject_format	kama_wrap.cxx	/^SwigPyObject_format(const char* fmt, SwigPyObject *v)$/;"	f
+SwigPyObject_getattr	kama_wrap.cxx	/^SwigPyObject_getattr(SwigPyObject *sobj,char *name)$/;"	f
+SwigPyObject_hex	kama_wrap.cxx	/^SwigPyObject_hex(SwigPyObject *v)$/;"	f
+SwigPyObject_long	kama_wrap.cxx	/^SwigPyObject_long(SwigPyObject *v)$/;"	f
+SwigPyObject_next	kama_wrap.cxx	/^SwigPyObject_next(PyObject* v)$/;"	f
+SwigPyObject_oct	kama_wrap.cxx	/^SwigPyObject_oct(SwigPyObject *v)$/;"	f
+SwigPyObject_own	kama_wrap.cxx	/^SwigPyObject_own(PyObject *v, PyObject *args)$/;"	f
+SwigPyObject_repr	kama_wrap.cxx	/^SwigPyObject_repr(SwigPyObject *v)$/;"	f
+SwigPyObject_richcompare	kama_wrap.cxx	/^SwigPyObject_richcompare(SwigPyObject *v, SwigPyObject *w, int op)$/;"	f
+SwigPyObject_stype	kama_wrap.cxx	/^static swig_type_info *SwigPyObject_stype = 0;$/;"	v	file:
+SwigPyObject_type	kama_wrap.cxx	/^SwigPyObject_type(void) {$/;"	f
+SwigPyPacked	kama_wrap.cxx	/^} SwigPyPacked;$/;"	t	typeref:struct:__anon4	file:
+SwigPyPacked_Check	kama_wrap.cxx	/^SwigPyPacked_Check(PyObject *op) {$/;"	f
+SwigPyPacked_New	kama_wrap.cxx	/^SwigPyPacked_New(void *ptr, size_t size, swig_type_info *ty)$/;"	f
+SwigPyPacked_TypeOnce	kama_wrap.cxx	/^SwigPyPacked_TypeOnce(void) {$/;"	f
+SwigPyPacked_UnpackData	kama_wrap.cxx	/^SwigPyPacked_UnpackData(PyObject *obj, void *ptr, size_t size)$/;"	f
+SwigPyPacked_compare	kama_wrap.cxx	/^SwigPyPacked_compare(SwigPyPacked *v, SwigPyPacked *w)$/;"	f
+SwigPyPacked_dealloc	kama_wrap.cxx	/^SwigPyPacked_dealloc(PyObject *v)$/;"	f
+SwigPyPacked_print	kama_wrap.cxx	/^SwigPyPacked_print(SwigPyPacked *v, FILE *fp, int SWIGUNUSEDPARM(flags))$/;"	f
+SwigPyPacked_repr	kama_wrap.cxx	/^SwigPyPacked_repr(SwigPyPacked *v)$/;"	f
+SwigPyPacked_str	kama_wrap.cxx	/^SwigPyPacked_str(SwigPyPacked *v)$/;"	f
+SwigPyPacked_type	kama_wrap.cxx	/^SwigPyPacked_type(void) {$/;"	f
+SwigValueInit	kama_wrap.cxx	/^template <typename T> T SwigValueInit() {$/;"	f
+SwigValueWrapper	kama_wrap.cxx	/^  SwigValueWrapper() : pointer(0) { }$/;"	f	class:SwigValueWrapper
+SwigValueWrapper	kama_wrap.cxx	/^template<typename T> class SwigValueWrapper {$/;"	c	file:
+SwigVar_PyObject	kama_wrap.cxx	/^    SwigVar_PyObject(PyObject* obj = 0) : SwigPtr_PyObject(obj, false) { }$/;"	f	struct:swig::SwigVar_PyObject
+SwigVar_PyObject	kama_wrap.cxx	/^  struct SwigVar_PyObject : SwigPtr_PyObject {$/;"	s	namespace:swig	file:
+Tagger	build/lib.linux-x86_64-3.6/kama.py	/^class Tagger(_object):$/;"	c
+Tagger	kama.h	/^			Tagger(const char* userDicPath){$/;"	f	class:Kama::Tagger
+Tagger	kama.h	/^	class Tagger{$/;"	c	namespace:Kama
+Tagger	kama.py	/^class Tagger(_object):$/;"	c
+Tagger	lib/python3.6/site-packages/kama.py	/^class Tagger(_object):$/;"	c
+Tagger	mecab.h	/^class MECAB_DLL_CLASS_EXTERN Tagger {$/;"	c	namespace:MeCab
+Tagger_swigregister	build/lib.linux-x86_64-3.6/kama.py	/^Tagger_swigregister = _kama.Tagger_swigregister$/;"	v
+Tagger_swigregister	kama.py	/^Tagger_swigregister = _kama.Tagger_swigregister$/;"	v
+Tagger_swigregister	lib/python3.6/site-packages/kama.py	/^Tagger_swigregister = _kama.Tagger_swigregister$/;"	v
+ULLONG_MAX	kama_wrap.cxx	3478;"	d	file:
+VERSION	build/lib.linux-x86_64-3.6/kama.py	/^VERSION = _kama.VERSION$/;"	v
+VERSION	kama.py	/^VERSION = _kama.VERSION$/;"	v
+VERSION	lib/python3.6/site-packages/kama.py	/^VERSION = _kama.VERSION$/;"	v
+VERSION	version.h	2;"	d
+_CRT_SECURE_NO_DEPRECATE	kama_wrap.cxx	138;"	d	file:
+_DEBUG	kama_wrap.cxx	150;"	d	file:
+_DEBUG	kama_wrap.cxx	152;"	d	file:
+_Node	kama.h	/^	typedef struct _Node {$/;"	s	namespace:Kama
+_PyLong_FromSsize_t	kama_wrap.cxx	763;"	d	file:
+_SCL_SECURE_NO_DEPRECATE	kama_wrap.cxx	143;"	d	file:
+_SWIG_Py_None	kama_wrap.cxx	/^_SWIG_Py_None(void)$/;"	f
+_SWIG_This	kama_wrap.cxx	/^_SWIG_This(void)$/;"	f
+__add__	build/lib.linux-x86_64-3.6/kama.py	/^    def __add__(self, *args): return _kama.SwigPyIterator___add__(self, *args)$/;"	m	class:SwigPyIterator	file:
+__add__	kama.py	/^    def __add__(self, *args): return _kama.SwigPyIterator___add__(self, *args)$/;"	m	class:SwigPyIterator	file:
+__add__	lib/python3.6/site-packages/kama.py	/^    def __add__(self, *args): return _kama.SwigPyIterator___add__(self, *args)$/;"	m	class:SwigPyIterator	file:
+__del__	build/lib.linux-x86_64-3.6/kama.py	/^    __del__ = lambda self : None;$/;"	v	class:Node
+__del__	build/lib.linux-x86_64-3.6/kama.py	/^    __del__ = lambda self : None;$/;"	v	class:SwigPyIterator
+__del__	build/lib.linux-x86_64-3.6/kama.py	/^    __del__ = lambda self : None;$/;"	v	class:Tagger
+__del__	kama.py	/^    __del__ = lambda self : None;$/;"	v	class:Node
+__del__	kama.py	/^    __del__ = lambda self : None;$/;"	v	class:SwigPyIterator
+__del__	kama.py	/^    __del__ = lambda self : None;$/;"	v	class:Tagger
+__del__	lib/python3.6/site-packages/kama.py	/^    __del__ = lambda self : None;$/;"	v	class:Node
+__del__	lib/python3.6/site-packages/kama.py	/^    __del__ = lambda self : None;$/;"	v	class:SwigPyIterator
+__del__	lib/python3.6/site-packages/kama.py	/^    __del__ = lambda self : None;$/;"	v	class:Tagger
+__eq__	build/lib.linux-x86_64-3.6/kama.py	/^    def __eq__(self, *args): return _kama.SwigPyIterator___eq__(self, *args)$/;"	m	class:SwigPyIterator	file:
+__eq__	kama.py	/^    def __eq__(self, *args): return _kama.SwigPyIterator___eq__(self, *args)$/;"	m	class:SwigPyIterator	file:
+__eq__	lib/python3.6/site-packages/kama.py	/^    def __eq__(self, *args): return _kama.SwigPyIterator___eq__(self, *args)$/;"	m	class:SwigPyIterator	file:
+__getattr__	build/lib.linux-x86_64-3.6/kama.py	/^    __getattr__ = lambda self, name: _swig_getattr(self, Node, name)$/;"	v	class:Node
+__getattr__	build/lib.linux-x86_64-3.6/kama.py	/^    __getattr__ = lambda self, name: _swig_getattr(self, SwigPyIterator, name)$/;"	v	class:SwigPyIterator
+__getattr__	build/lib.linux-x86_64-3.6/kama.py	/^    __getattr__ = lambda self, name: _swig_getattr(self, Tagger, name)$/;"	v	class:Tagger
+__getattr__	kama.py	/^    __getattr__ = lambda self, name: _swig_getattr(self, Node, name)$/;"	v	class:Node
+__getattr__	kama.py	/^    __getattr__ = lambda self, name: _swig_getattr(self, SwigPyIterator, name)$/;"	v	class:SwigPyIterator
+__getattr__	kama.py	/^    __getattr__ = lambda self, name: _swig_getattr(self, Tagger, name)$/;"	v	class:Tagger
+__getattr__	lib/python3.6/site-packages/kama.py	/^    __getattr__ = lambda self, name: _swig_getattr(self, Node, name)$/;"	v	class:Node
+__getattr__	lib/python3.6/site-packages/kama.py	/^    __getattr__ = lambda self, name: _swig_getattr(self, SwigPyIterator, name)$/;"	v	class:SwigPyIterator
+__getattr__	lib/python3.6/site-packages/kama.py	/^    __getattr__ = lambda self, name: _swig_getattr(self, Tagger, name)$/;"	v	class:Tagger
+__iadd__	build/lib.linux-x86_64-3.6/kama.py	/^    def __iadd__(self, *args): return _kama.SwigPyIterator___iadd__(self, *args)$/;"	m	class:SwigPyIterator	file:
+__iadd__	kama.py	/^    def __iadd__(self, *args): return _kama.SwigPyIterator___iadd__(self, *args)$/;"	m	class:SwigPyIterator	file:
+__iadd__	lib/python3.6/site-packages/kama.py	/^    def __iadd__(self, *args): return _kama.SwigPyIterator___iadd__(self, *args)$/;"	m	class:SwigPyIterator	file:
+__init__	build/lib.linux-x86_64-3.6/kama.py	/^    def __init__(self): $/;"	m	class:Node
+__init__	build/lib.linux-x86_64-3.6/kama.py	/^    def __init__(self, *args): $/;"	m	class:Tagger
+__init__	build/lib.linux-x86_64-3.6/kama.py	/^    def __init__(self, *args, **kwargs): raise AttributeError("No constructor defined - class is abstract")$/;"	m	class:SwigPyIterator
+__init__	kama.py	/^    def __init__(self): $/;"	m	class:Node
+__init__	kama.py	/^    def __init__(self, *args): $/;"	m	class:Tagger
+__init__	kama.py	/^    def __init__(self, *args, **kwargs): raise AttributeError("No constructor defined - class is abstract")$/;"	m	class:SwigPyIterator
+__init__	lib/python3.6/site-packages/kama.py	/^    def __init__(self): $/;"	m	class:Node
+__init__	lib/python3.6/site-packages/kama.py	/^    def __init__(self, *args): $/;"	m	class:Tagger
+__init__	lib/python3.6/site-packages/kama.py	/^    def __init__(self, *args, **kwargs): raise AttributeError("No constructor defined - class is abstract")$/;"	m	class:SwigPyIterator
+__isub__	build/lib.linux-x86_64-3.6/kama.py	/^    def __isub__(self, *args): return _kama.SwigPyIterator___isub__(self, *args)$/;"	m	class:SwigPyIterator	file:
+__isub__	kama.py	/^    def __isub__(self, *args): return _kama.SwigPyIterator___isub__(self, *args)$/;"	m	class:SwigPyIterator	file:
+__isub__	lib/python3.6/site-packages/kama.py	/^    def __isub__(self, *args): return _kama.SwigPyIterator___isub__(self, *args)$/;"	m	class:SwigPyIterator	file:
+__iter__	build/lib.linux-x86_64-3.6/kama.py	/^    def __iter__(self): return self$/;"	m	class:SwigPyIterator	file:
+__iter__	kama.py	/^    def __iter__(self): return self$/;"	m	class:SwigPyIterator	file:
+__iter__	lib/python3.6/site-packages/kama.py	/^    def __iter__(self): return self$/;"	m	class:SwigPyIterator	file:
+__ne__	build/lib.linux-x86_64-3.6/kama.py	/^    def __ne__(self, *args): return _kama.SwigPyIterator___ne__(self, *args)$/;"	m	class:SwigPyIterator	file:
+__ne__	kama.py	/^    def __ne__(self, *args): return _kama.SwigPyIterator___ne__(self, *args)$/;"	m	class:SwigPyIterator	file:
+__ne__	lib/python3.6/site-packages/kama.py	/^    def __ne__(self, *args): return _kama.SwigPyIterator___ne__(self, *args)$/;"	m	class:SwigPyIterator	file:
+__next__	build/lib.linux-x86_64-3.6/kama.py	/^    def __next__(self): return _kama.SwigPyIterator___next__(self)$/;"	m	class:SwigPyIterator	file:
+__next__	kama.py	/^    def __next__(self): return _kama.SwigPyIterator___next__(self)$/;"	m	class:SwigPyIterator	file:
+__next__	kama_wrap.cxx	/^    PyObject *__next__()$/;"	f	struct:swig::SwigPyIterator
+__next__	lib/python3.6/site-packages/kama.py	/^    def __next__(self): return _kama.SwigPyIterator___next__(self)$/;"	m	class:SwigPyIterator	file:
+__repr__	build/lib.linux-x86_64-3.6/kama.py	/^    __repr__ = _swig_repr$/;"	v	class:Node
+__repr__	build/lib.linux-x86_64-3.6/kama.py	/^    __repr__ = _swig_repr$/;"	v	class:SwigPyIterator
+__repr__	build/lib.linux-x86_64-3.6/kama.py	/^    __repr__ = _swig_repr$/;"	v	class:Tagger
+__repr__	kama.py	/^    __repr__ = _swig_repr$/;"	v	class:Node
+__repr__	kama.py	/^    __repr__ = _swig_repr$/;"	v	class:SwigPyIterator
+__repr__	kama.py	/^    __repr__ = _swig_repr$/;"	v	class:Tagger
+__repr__	lib/python3.6/site-packages/kama.py	/^    __repr__ = _swig_repr$/;"	v	class:Node
+__repr__	lib/python3.6/site-packages/kama.py	/^    __repr__ = _swig_repr$/;"	v	class:SwigPyIterator
+__repr__	lib/python3.6/site-packages/kama.py	/^    __repr__ = _swig_repr$/;"	v	class:Tagger
+__setattr__	build/lib.linux-x86_64-3.6/kama.py	/^    __setattr__ = lambda self, name, value: _swig_setattr(self, Node, name, value)$/;"	v	class:Node
+__setattr__	build/lib.linux-x86_64-3.6/kama.py	/^    __setattr__ = lambda self, name, value: _swig_setattr(self, SwigPyIterator, name, value)$/;"	v	class:SwigPyIterator
+__setattr__	build/lib.linux-x86_64-3.6/kama.py	/^    __setattr__ = lambda self, name, value: _swig_setattr(self, Tagger, name, value)$/;"	v	class:Tagger
+__setattr__	kama.py	/^    __setattr__ = lambda self, name, value: _swig_setattr(self, Node, name, value)$/;"	v	class:Node
+__setattr__	kama.py	/^    __setattr__ = lambda self, name, value: _swig_setattr(self, SwigPyIterator, name, value)$/;"	v	class:SwigPyIterator
+__setattr__	kama.py	/^    __setattr__ = lambda self, name, value: _swig_setattr(self, Tagger, name, value)$/;"	v	class:Tagger
+__setattr__	lib/python3.6/site-packages/kama.py	/^    __setattr__ = lambda self, name, value: _swig_setattr(self, Node, name, value)$/;"	v	class:Node
+__setattr__	lib/python3.6/site-packages/kama.py	/^    __setattr__ = lambda self, name, value: _swig_setattr(self, SwigPyIterator, name, value)$/;"	v	class:SwigPyIterator
+__setattr__	lib/python3.6/site-packages/kama.py	/^    __setattr__ = lambda self, name, value: _swig_setattr(self, Tagger, name, value)$/;"	v	class:Tagger
+__sub__	build/lib.linux-x86_64-3.6/kama.py	/^    def __sub__(self, *args): return _kama.SwigPyIterator___sub__(self, *args)$/;"	m	class:SwigPyIterator	file:
+__sub__	kama.py	/^    def __sub__(self, *args): return _kama.SwigPyIterator___sub__(self, *args)$/;"	m	class:SwigPyIterator	file:
+__sub__	lib/python3.6/site-packages/kama.py	/^    def __sub__(self, *args): return _kama.SwigPyIterator___sub__(self, *args)$/;"	m	class:SwigPyIterator	file:
+__swig_destroy__	build/lib.linux-x86_64-3.6/kama.py	/^    __swig_destroy__ = _kama.delete_Node$/;"	v	class:Node
+__swig_destroy__	build/lib.linux-x86_64-3.6/kama.py	/^    __swig_destroy__ = _kama.delete_SwigPyIterator$/;"	v	class:SwigPyIterator
+__swig_destroy__	build/lib.linux-x86_64-3.6/kama.py	/^    __swig_destroy__ = _kama.delete_Tagger$/;"	v	class:Tagger
+__swig_destroy__	kama.py	/^    __swig_destroy__ = _kama.delete_Node$/;"	v	class:Node
+__swig_destroy__	kama.py	/^    __swig_destroy__ = _kama.delete_SwigPyIterator$/;"	v	class:SwigPyIterator
+__swig_destroy__	kama.py	/^    __swig_destroy__ = _kama.delete_Tagger$/;"	v	class:Tagger
+__swig_destroy__	lib/python3.6/site-packages/kama.py	/^    __swig_destroy__ = _kama.delete_Node$/;"	v	class:Node
+__swig_destroy__	lib/python3.6/site-packages/kama.py	/^    __swig_destroy__ = _kama.delete_SwigPyIterator$/;"	v	class:SwigPyIterator
+__swig_destroy__	lib/python3.6/site-packages/kama.py	/^    __swig_destroy__ = _kama.delete_Tagger$/;"	v	class:Tagger
+__swig_getmethods__	build/lib.linux-x86_64-3.6/kama.py	/^    __swig_getmethods__ = {}$/;"	v	class:Node
+__swig_getmethods__	build/lib.linux-x86_64-3.6/kama.py	/^    __swig_getmethods__ = {}$/;"	v	class:SwigPyIterator
+__swig_getmethods__	build/lib.linux-x86_64-3.6/kama.py	/^    __swig_getmethods__ = {}$/;"	v	class:Tagger
+__swig_getmethods__	kama.py	/^    __swig_getmethods__ = {}$/;"	v	class:Node
+__swig_getmethods__	kama.py	/^    __swig_getmethods__ = {}$/;"	v	class:SwigPyIterator
+__swig_getmethods__	kama.py	/^    __swig_getmethods__ = {}$/;"	v	class:Tagger
+__swig_getmethods__	lib/python3.6/site-packages/kama.py	/^    __swig_getmethods__ = {}$/;"	v	class:Node
+__swig_getmethods__	lib/python3.6/site-packages/kama.py	/^    __swig_getmethods__ = {}$/;"	v	class:SwigPyIterator
+__swig_getmethods__	lib/python3.6/site-packages/kama.py	/^    __swig_getmethods__ = {}$/;"	v	class:Tagger
+__swig_setmethods__	build/lib.linux-x86_64-3.6/kama.py	/^    __swig_setmethods__ = {}$/;"	v	class:Node
+__swig_setmethods__	build/lib.linux-x86_64-3.6/kama.py	/^    __swig_setmethods__ = {}$/;"	v	class:SwigPyIterator
+__swig_setmethods__	build/lib.linux-x86_64-3.6/kama.py	/^    __swig_setmethods__ = {}$/;"	v	class:Tagger
+__swig_setmethods__	kama.py	/^    __swig_setmethods__ = {}$/;"	v	class:Node
+__swig_setmethods__	kama.py	/^    __swig_setmethods__ = {}$/;"	v	class:SwigPyIterator
+__swig_setmethods__	kama.py	/^    __swig_setmethods__ = {}$/;"	v	class:Tagger
+__swig_setmethods__	lib/python3.6/site-packages/kama.py	/^    __swig_setmethods__ = {}$/;"	v	class:Node
+__swig_setmethods__	lib/python3.6/site-packages/kama.py	/^    __swig_setmethods__ = {}$/;"	v	class:SwigPyIterator
+__swig_setmethods__	lib/python3.6/site-packages/kama.py	/^    __swig_setmethods__ = {}$/;"	v	class:Tagger
+_kama	build/lib.linux-x86_64-3.6/kama.py	/^    _kama = swig_import_helper()$/;"	v
+_kama	kama.py	/^    _kama = swig_import_helper()$/;"	v
+_kama	lib/python3.6/site-packages/kama.py	/^    _kama = swig_import_helper()$/;"	v
+_newclass	build/lib.linux-x86_64-3.6/kama.py	/^    _newclass = 0$/;"	v
+_newclass	kama.py	/^    _newclass = 0$/;"	v
+_newclass	lib/python3.6/site-packages/kama.py	/^    _newclass = 0$/;"	v
+_obj	kama_wrap.cxx	/^    PyObject *_obj;$/;"	m	class:swig::SwigPtr_PyObject	file:
+_object	build/lib.linux-x86_64-3.6/kama.py	/^    class _object : pass$/;"	c
+_object	kama.py	/^    class _object : pass$/;"	c
+_object	lib/python3.6/site-packages/kama.py	/^    class _object : pass$/;"	c
+_seq	kama_wrap.cxx	/^    SwigPtr_PyObject _seq;$/;"	m	struct:swig::SwigPyIterator	file:
+_swig_getattr	build/lib.linux-x86_64-3.6/kama.py	/^def _swig_getattr(self,class_type,name):$/;"	f
+_swig_getattr	kama.py	/^def _swig_getattr(self,class_type,name):$/;"	f
+_swig_getattr	lib/python3.6/site-packages/kama.py	/^def _swig_getattr(self,class_type,name):$/;"	f
+_swig_property	build/lib.linux-x86_64-3.6/kama.py	/^    _swig_property = property$/;"	v
+_swig_property	kama.py	/^    _swig_property = property$/;"	v
+_swig_property	lib/python3.6/site-packages/kama.py	/^    _swig_property = property$/;"	v
+_swig_repr	build/lib.linux-x86_64-3.6/kama.py	/^def _swig_repr(self):$/;"	f
+_swig_repr	kama.py	/^def _swig_repr(self):$/;"	f
+_swig_repr	lib/python3.6/site-packages/kama.py	/^def _swig_repr(self):$/;"	f
+_swig_setattr	build/lib.linux-x86_64-3.6/kama.py	/^def _swig_setattr(self,class_type,name,value):$/;"	f
+_swig_setattr	kama.py	/^def _swig_setattr(self,class_type,name,value):$/;"	f
+_swig_setattr	lib/python3.6/site-packages/kama.py	/^def _swig_setattr(self,class_type,name,value):$/;"	f
+_swig_setattr_nondynamic	build/lib.linux-x86_64-3.6/kama.py	/^def _swig_setattr_nondynamic(self,class_type,name,value,static=1):$/;"	f
+_swig_setattr_nondynamic	kama.py	/^def _swig_setattr_nondynamic(self,class_type,name,value,static=1):$/;"	f
+_swig_setattr_nondynamic	lib/python3.6/site-packages/kama.py	/^def _swig_setattr_nondynamic(self,class_type,name,value,static=1):$/;"	f
+_swigc__p_Kama__Tagger	kama_wrap.cxx	/^static swig_cast_info _swigc__p_Kama__Tagger[] = {  {&_swigt__p_Kama__Tagger, 0, 0, 0},{0, 0, 0, 0}};$/;"	v	file:
+_swigc__p_Kama___Node	kama_wrap.cxx	/^static swig_cast_info _swigc__p_Kama___Node[] = {  {&_swigt__p_Kama___Node, 0, 0, 0},{0, 0, 0, 0}};$/;"	v	file:
+_swigc__p_char	kama_wrap.cxx	/^static swig_cast_info _swigc__p_char[] = {  {&_swigt__p_char, 0, 0, 0},{0, 0, 0, 0}};$/;"	v	file:
+_swigc__p_std__invalid_argument	kama_wrap.cxx	/^static swig_cast_info _swigc__p_std__invalid_argument[] = {  {&_swigt__p_std__invalid_argument, 0, 0, 0},{0, 0, 0, 0}};$/;"	v	file:
+_swigc__p_std__listT_char_const_p_std__allocatorT_char_const_p_t_t	kama_wrap.cxx	/^static swig_cast_info _swigc__p_std__listT_char_const_p_std__allocatorT_char_const_p_t_t[] = {  {&_swigt__p_std__listT_char_const_p_std__allocatorT_char_const_p_t_t, 0, 0, 0},{0, 0, 0, 0}};$/;"	v	file:
+_swigc__p_swig__SwigPyIterator	kama_wrap.cxx	/^static swig_cast_info _swigc__p_swig__SwigPyIterator[] = {  {&_swigt__p_swig__SwigPyIterator, 0, 0, 0},{0, 0, 0, 0}};$/;"	v	file:
+_swigt__p_Kama__Tagger	kama_wrap.cxx	/^static swig_type_info _swigt__p_Kama__Tagger = {"_p_Kama__Tagger", "Kama::Tagger *", 0, 0, (void*)0, 0};$/;"	v	file:
+_swigt__p_Kama___Node	kama_wrap.cxx	/^static swig_type_info _swigt__p_Kama___Node = {"_p_Kama___Node", "Kama::_Node *|Kama::Node *", 0, 0, (void*)0, 0};$/;"	v	file:
+_swigt__p_char	kama_wrap.cxx	/^static swig_type_info _swigt__p_char = {"_p_char", "char *", 0, 0, (void*)0, 0};$/;"	v	file:
+_swigt__p_std__invalid_argument	kama_wrap.cxx	/^static swig_type_info _swigt__p_std__invalid_argument = {"_p_std__invalid_argument", "std::invalid_argument *", 0, 0, (void*)0, 0};$/;"	v	file:
+_swigt__p_std__listT_char_const_p_std__allocatorT_char_const_p_t_t	kama_wrap.cxx	/^static swig_type_info _swigt__p_std__listT_char_const_p_std__allocatorT_char_const_p_t_t = {"_p_std__listT_char_const_p_std__allocatorT_char_const_p_t_t", "std::list< char const *,std::allocator< char const * > > *", 0, 0, (void*)0, 0};$/;"	v	file:
+_swigt__p_swig__SwigPyIterator	kama_wrap.cxx	/^static swig_type_info _swigt__p_swig__SwigPyIterator = {"_p_swig__SwigPyIterator", "swig::SwigPyIterator *", 0, 0, (void*)0, 0};$/;"	v	file:
+_wrap_SwigPyIterator___sub__	kama_wrap.cxx	/^SWIGINTERN PyObject *_wrap_SwigPyIterator___sub__(PyObject *self, PyObject *args) {$/;"	f
+_wrap_SwigPyIterator_decr	kama_wrap.cxx	/^SWIGINTERN PyObject *_wrap_SwigPyIterator_decr(PyObject *self, PyObject *args) {$/;"	f
+_wrap_SwigPyIterator_incr	kama_wrap.cxx	/^SWIGINTERN PyObject *_wrap_SwigPyIterator_incr(PyObject *self, PyObject *args) {$/;"	f
+_wrap_Tagger_parse	kama_wrap.cxx	/^SWIGINTERN PyObject *_wrap_Tagger_parse(PyObject *self, PyObject *args) {$/;"	f
+addStopword	build/lib.linux-x86_64-3.6/kama.py	/^    def addStopword(self, *args): return _kama.Tagger_addStopword(self, *args)$/;"	m	class:Tagger
+addStopword	kama.cpp	/^	void Tagger::addStopword(const char* stopword){$/;"	f	class:Kama::Tagger
+addStopword	kama.py	/^    def addStopword(self, *args): return _kama.Tagger_addStopword(self, *args)$/;"	m	class:Tagger
+addStopword	lib/python3.6/site-packages/kama.py	/^    def addStopword(self, *args): return _kama.Tagger_addStopword(self, *args)$/;"	m	class:Tagger
+advance	build/lib.linux-x86_64-3.6/kama.py	/^    def advance(self, *args): return _kama.SwigPyIterator_advance(self, *args)$/;"	m	class:SwigPyIterator
+advance	kama.py	/^    def advance(self, *args): return _kama.SwigPyIterator_advance(self, *args)$/;"	m	class:SwigPyIterator
+advance	kama_wrap.cxx	/^    SwigPyIterator *advance(ptrdiff_t n)$/;"	f	struct:swig::SwigPyIterator
+advance	lib/python3.6/site-packages/kama.py	/^    def advance(self, *args): return _kama.SwigPyIterator_advance(self, *args)$/;"	m	class:SwigPyIterator
+alpha	mecab.h	/^  float                 alpha;$/;"	m	struct:mecab_node_t
+as_buffer	kama_wrap.cxx	/^  PyBufferProcs as_buffer;$/;"	m	struct:__anon1	file:
+as_mapping	kama_wrap.cxx	/^  PyMappingMethods as_mapping;$/;"	m	struct:__anon1	file:
+as_number	kama_wrap.cxx	/^  PyNumberMethods as_number;$/;"	m	struct:__anon1	file:
+as_sequence	kama_wrap.cxx	/^  PySequenceMethods as_sequence;$/;"	m	struct:__anon1	file:
+author	setup.py	/^	author = 'Wonjong Choi',$/;"	v
+author_email	setup.py	/^	author_email = 'wj77.choi@gmail.com',$/;"	v
+beta	mecab.h	/^  float                 beta;$/;"	m	struct:mecab_node_t
+bnext	mecab.h	/^  struct mecab_node_t  *bnext;$/;"	m	struct:mecab_node_t	typeref:struct:mecab_node_t::mecab_node_t
+cast	kama_wrap.cxx	/^  struct swig_cast_info  *cast;			\/* linked list of types that can cast into this type *\/$/;"	m	struct:swig_type_info	typeref:struct:swig_type_info::swig_cast_info	file:
+cast_initial	kama_wrap.cxx	/^  swig_cast_info         **cast_initial;	\/* Array of initially generated casting structures *\/$/;"	m	struct:swig_module_info	file:
+char_type	mecab.h	/^  unsigned char         char_type;$/;"	m	struct:mecab_node_t
+charbufferproc	kama_wrap.cxx	/^typedef getcharbufferproc charbufferproc;$/;"	t	file:
+charset	mecab.h	/^  const char                     *charset;$/;"	m	struct:mecab_dictionary_info_t
+clearStopwordList	build/lib.linux-x86_64-3.6/kama.py	/^    def clearStopwordList(self): return _kama.Tagger_clearStopwordList(self)$/;"	m	class:Tagger
+clearStopwordList	kama.cpp	/^	void Tagger::clearStopwordList(){$/;"	f	class:Kama::Tagger
+clearStopwordList	kama.py	/^    def clearStopwordList(self): return _kama.Tagger_clearStopwordList(self)$/;"	m	class:Tagger
+clearStopwordList	lib/python3.6/site-packages/kama.py	/^    def clearStopwordList(self): return _kama.Tagger_clearStopwordList(self)$/;"	m	class:Tagger
+clientdata	kama_wrap.cxx	/^  void                    *clientdata;		\/* Language specific module data *\/$/;"	m	struct:swig_module_info	file:
+clientdata	kama_wrap.cxx	/^  void                   *clientdata;		\/* language specific type data *\/$/;"	m	struct:swig_type_info	file:
+converter	kama_wrap.cxx	/^  swig_converter_func     converter;		\/* function to cast the void pointers *\/$/;"	m	struct:swig_cast_info	file:
+copy	build/lib.linux-x86_64-3.6/kama.py	/^    def copy(self): return _kama.SwigPyIterator_copy(self)$/;"	m	class:SwigPyIterator
+copy	kama.py	/^    def copy(self): return _kama.SwigPyIterator_copy(self)$/;"	m	class:SwigPyIterator
+copy	lib/python3.6/site-packages/kama.py	/^    def copy(self): return _kama.SwigPyIterator_copy(self)$/;"	m	class:SwigPyIterator
+cost	mecab.h	/^  int                  cost;$/;"	m	struct:mecab_path_t
+cost	mecab.h	/^  long                  cost;$/;"	m	struct:mecab_node_t
+dcast	kama_wrap.cxx	/^  swig_dycast_func        dcast;		\/* dynamic cast function down a hierarchy *\/$/;"	m	struct:swig_type_info	file:
+decr	build/lib.linux-x86_64-3.6/kama.py	/^    def decr(self, n=1): return _kama.SwigPyIterator_decr(self, n)$/;"	m	class:SwigPyIterator
+decr	kama.py	/^    def decr(self, n=1): return _kama.SwigPyIterator_decr(self, n)$/;"	m	class:SwigPyIterator
+decr	kama_wrap.cxx	/^    virtual SwigPyIterator *decr(size_t \/*n*\/ = 1)$/;"	f	struct:swig::SwigPyIterator
+decr	lib/python3.6/site-packages/kama.py	/^    def decr(self, n=1): return _kama.SwigPyIterator_decr(self, n)$/;"	m	class:SwigPyIterator
+defaultDicPath	kama.h	/^            const char* defaultDicPath = "\/usr\/local\/lib\/mecab\/dic\/mecab-ko-dic";$/;"	m	class:Kama::Tagger
+delargs	kama_wrap.cxx	/^  int delargs;$/;"	m	struct:__anon2	file:
+description	setup.py	/^	description = ''$/;"	v
+descriptor	kama_wrap.cxx	/^    static swig_type_info* descriptor() {$/;"	f	struct:swig::SwigPyIterator
+destroy	kama_wrap.cxx	/^  PyObject *destroy;$/;"	m	struct:__anon2	file:
+dict	kama_wrap.cxx	/^  PyObject *dict;$/;"	m	struct:__anon3	file:
+distance	build/lib.linux-x86_64-3.6/kama.py	/^    def distance(self, *args): return _kama.SwigPyIterator_distance(self, *args)$/;"	m	class:SwigPyIterator
+distance	kama.py	/^    def distance(self, *args): return _kama.SwigPyIterator_distance(self, *args)$/;"	m	class:SwigPyIterator
+distance	kama_wrap.cxx	/^    virtual ptrdiff_t distance(const SwigPyIterator &\/*x*\/) const$/;"	f	struct:swig::SwigPyIterator
+distance	lib/python3.6/site-packages/kama.py	/^    def distance(self, *args): return _kama.SwigPyIterator_distance(self, *args)$/;"	m	class:SwigPyIterator
+dvalue	kama_wrap.cxx	/^  double dvalue;$/;"	m	struct:swig_const_info	file:
+end	kama_wrap.cxx	/^         void end() { if (status) { PyEval_RestoreThread(save); status = false; }}$/;"	f	class:SWIG_Python_Thread_Allow
+end	kama_wrap.cxx	/^         void end() { if (status) { PyGILState_Release(state); status = false;} }$/;"	f	class:SWIG_Python_Thread_Block
+enext	mecab.h	/^  struct mecab_node_t  *enext;$/;"	m	struct:mecab_node_t	typeref:struct:mecab_node_t::mecab_node_t
+equal	build/lib.linux-x86_64-3.6/kama.py	/^    def equal(self, *args): return _kama.SwigPyIterator_equal(self, *args)$/;"	m	class:SwigPyIterator
+equal	kama.py	/^    def equal(self, *args): return _kama.SwigPyIterator_equal(self, *args)$/;"	m	class:SwigPyIterator
+equal	kama_wrap.cxx	/^    virtual bool equal (const SwigPyIterator &\/*x*\/) const$/;"	f	struct:swig::SwigPyIterator
+equal	lib/python3.6/site-packages/kama.py	/^    def equal(self, *args): return _kama.SwigPyIterator_equal(self, *args)$/;"	m	class:SwigPyIterator
+ext_modules	setup.py	/^	ext_modules = [Extension("_kama",$/;"	v
+feature	kama.h	/^		char* feature;$/;"	m	struct:Kama::_Node
+feature	mecab.h	/^  const char           *feature;$/;"	m	struct:mecab_node_t
+filename	mecab.h	/^  const char                     *filename;$/;"	m	struct:mecab_dictionary_info_t
+freefunc	kama_wrap.cxx	/^typedef destructor freefunc;$/;"	t	file:
+fullname	setup.py	/^	fullname = 'kama-0.01',$/;"	v
+get_attr	kama_wrap.cxx	/^    PyObject *(*get_attr)(void);       \/* Return the current value *\/$/;"	m	struct:swig_globalvar	file:
+id	kama.h	/^		unsigned int id;$/;"	m	struct:Kama::_Node
+id	mecab.h	/^  unsigned int          id;$/;"	m	struct:mecab_node_t
+implicitconv	kama_wrap.cxx	/^  int implicitconv;$/;"	m	struct:__anon2	file:
+include_dirs	setup.py	/^		include_dirs=['.', '\/home\/dennis\/Local\/anaconda3\/include\/python3.6m'],$/;"	v
+incr	build/lib.linux-x86_64-3.6/kama.py	/^    def incr(self, n=1): return _kama.SwigPyIterator_incr(self, n)$/;"	m	class:SwigPyIterator
+incr	kama.py	/^    def incr(self, n=1): return _kama.SwigPyIterator_incr(self, n)$/;"	m	class:SwigPyIterator
+incr	lib/python3.6/site-packages/kama.py	/^    def incr(self, n=1): return _kama.SwigPyIterator_incr(self, n)$/;"	m	class:SwigPyIterator
+index	kama.h	/^        unsigned int index;$/;"	m	struct:Kama::_Node
+isStopword	build/lib.linux-x86_64-3.6/kama.py	/^    def isStopword(self, *args): return _kama.Tagger_isStopword(self, *args)$/;"	m	class:Tagger
+isStopword	kama.cpp	/^	bool Tagger::isStopword(const char* word){$/;"	f	class:Kama::Tagger
+isStopword	kama.py	/^    def isStopword(self, *args): return _kama.Tagger_isStopword(self, *args)$/;"	m	class:Tagger
+isStopword	lib/python3.6/site-packages/kama.py	/^    def isStopword(self, *args): return _kama.Tagger_isStopword(self, *args)$/;"	m	class:Tagger
+isbest	mecab.h	/^  unsigned char         isbest;$/;"	m	struct:mecab_node_t
+klass	kama_wrap.cxx	/^  PyObject *klass;$/;"	m	struct:__anon2	file:
+km	lib/python3.6/site-packages/test.py	/^km=kama.Tagger('\/usr\/local\/lib\/mecab\/dic\/mecab-ko-dic')$/;"	v
+lcAttr	mecab.h	/^  unsigned short        lcAttr;$/;"	m	struct:mecab_node_t
+lenfunc	kama_wrap.cxx	/^typedef inquiry lenfunc;$/;"	t	file:
+length	mecab.h	/^  unsigned short        length;$/;"	m	struct:mecab_node_t
+libraries	setup.py	/^		libraries=['mecab', 'stdc++']$/;"	v
+library_dirs	setup.py	/^		library_dirs=['.'],$/;"	v
+lnext	mecab.h	/^  struct mecab_path_t* lnext;$/;"	m	struct:mecab_path_t	typeref:struct:mecab_path_t::mecab_path_t
+lnode	mecab.h	/^  struct mecab_node_t* lnode;$/;"	m	struct:mecab_path_t	typeref:struct:mecab_path_t::mecab_node_t
+lpath	mecab.h	/^  struct mecab_path_t  *lpath;$/;"	m	struct:mecab_node_t	typeref:struct:mecab_node_t::mecab_path_t
+lsize	mecab.h	/^  unsigned int                    lsize;$/;"	m	struct:mecab_dictionary_info_t
+lvalue	kama_wrap.cxx	/^  long lvalue;$/;"	m	struct:swig_const_info	file:
+main	kama.cpp	/^int main(int argc, char** argv)$/;"	f
+make_output_iterator_builtin	kama_wrap.cxx	/^  inline PyObject* make_output_iterator_builtin (PyObject *pyself)$/;"	f	namespace:swig
+mcLattice	kama.h	/^			MeCab::Lattice* mcLattice = NULL;$/;"	m	class:Kama::Tagger
+mcTagger	kama.h	/^			MeCab::Tagger* mcTagger = NULL;	$/;"	m	class:Kama::Tagger
+mecab_dictionary_info_t	mecab.h	/^  typedef struct mecab_dictionary_info_t mecab_dictionary_info_t;$/;"	t	typeref:struct:mecab_dictionary_info_t
+mecab_dictionary_info_t	mecab.h	/^struct mecab_dictionary_info_t {$/;"	s
+mecab_lattice_t	mecab.h	/^  typedef struct mecab_lattice_t         mecab_lattice_t;$/;"	t	typeref:struct:mecab_lattice_t
+mecab_model_t	mecab.h	/^  typedef struct mecab_model_t           mecab_model_t;$/;"	t	typeref:struct:mecab_model_t
+mecab_node_t	mecab.h	/^  typedef struct mecab_node_t            mecab_node_t;$/;"	t	typeref:struct:mecab_node_t
+mecab_node_t	mecab.h	/^struct mecab_node_t {$/;"	s
+mecab_path_t	mecab.h	/^  typedef struct mecab_path_t            mecab_path_t;$/;"	t	typeref:struct:mecab_path_t
+mecab_path_t	mecab.h	/^struct mecab_path_t {$/;"	s
+mecab_t	mecab.h	/^  typedef struct mecab_t                 mecab_t;$/;"	t	typeref:struct:mecab_t
+name	kama_wrap.cxx	/^    char       *name;                  \/* Name of global variable *\/$/;"	m	struct:swig_globalvar	file:
+name	kama_wrap.cxx	/^  PyObject *name, *slots;$/;"	m	struct:__anon1	file:
+name	kama_wrap.cxx	/^  char *name;$/;"	m	struct:swig_const_info	file:
+name	kama_wrap.cxx	/^  const char             *name;			\/* mangled name of this type *\/$/;"	m	struct:swig_type_info	file:
+name	setup.py	/^	name = "kama",$/;"	v
+nbest	kama.h	/^		unsigned int nbest;$/;"	m	struct:Kama::_Node
+newargs	kama_wrap.cxx	/^  PyObject *newargs;$/;"	m	struct:__anon2	file:
+newraw	kama_wrap.cxx	/^  PyObject *newraw;$/;"	m	struct:__anon2	file:
+next	build/lib.linux-x86_64-3.6/kama.py	/^    def next(self): return _kama.SwigPyIterator_next(self)$/;"	m	class:SwigPyIterator
+next	kama.py	/^    def next(self): return _kama.SwigPyIterator_next(self)$/;"	m	class:SwigPyIterator
+next	kama_wrap.cxx	/^    PyObject *next()     $/;"	f	struct:swig::SwigPyIterator
+next	kama_wrap.cxx	/^    struct swig_globalvar *next;$/;"	m	struct:swig_globalvar	typeref:struct:swig_globalvar::swig_globalvar	file:
+next	kama_wrap.cxx	/^  PyObject *next;$/;"	m	struct:__anon3	file:
+next	kama_wrap.cxx	/^  struct swig_cast_info  *next;			\/* pointer to next cast in linked list *\/$/;"	m	struct:swig_cast_info	typeref:struct:swig_cast_info::swig_cast_info	file:
+next	kama_wrap.cxx	/^  struct swig_module_info *next;		\/* Pointer to next element in circularly linked list *\/$/;"	m	struct:swig_module_info	typeref:struct:swig_module_info::swig_module_info	file:
+next	lib/python3.6/site-packages/kama.py	/^    def next(self): return _kama.SwigPyIterator_next(self)$/;"	m	class:SwigPyIterator
+next	mecab.h	/^  struct mecab_dictionary_info_t *next;$/;"	m	struct:mecab_dictionary_info_t	typeref:struct:mecab_dictionary_info_t::mecab_dictionary_info_t
+next	mecab.h	/^  struct mecab_node_t  *next;$/;"	m	struct:mecab_node_t	typeref:struct:mecab_node_t::mecab_node_t
+operator !=	kama_wrap.cxx	/^    bool operator != (const SwigPyIterator& x) const$/;"	f	struct:swig::SwigPyIterator
+operator &	kama_wrap.cxx	/^  T *operator&() { return pointer.ptr; }$/;"	f	class:SwigValueWrapper
+operator +	kama_wrap.cxx	/^    SwigPyIterator* operator + (ptrdiff_t n) const$/;"	f	struct:swig::SwigPyIterator
+operator +=	kama_wrap.cxx	/^    SwigPyIterator& operator += (ptrdiff_t n)$/;"	f	struct:swig::SwigPyIterator
+operator -	kama_wrap.cxx	/^    SwigPyIterator* operator - (ptrdiff_t n) const$/;"	f	struct:swig::SwigPyIterator
+operator -	kama_wrap.cxx	/^    ptrdiff_t operator - (const SwigPyIterator& x) const$/;"	f	struct:swig::SwigPyIterator
+operator -=	kama_wrap.cxx	/^    SwigPyIterator& operator -= (ptrdiff_t n)$/;"	f	struct:swig::SwigPyIterator
+operator ->	kama_wrap.cxx	/^    PyObject *operator->() const$/;"	f	class:swig::SwigPtr_PyObject
+operator =	kama_wrap.cxx	/^    SwigMovePointer& operator=(SwigMovePointer& rhs) { T* oldptr = ptr; ptr = 0; delete oldptr; ptr = rhs.ptr; rhs.ptr = 0; return *this; }$/;"	f	struct:SwigValueWrapper::SwigMovePointer
+operator =	kama_wrap.cxx	/^    SwigPtr_PyObject & operator=(const SwigPtr_PyObject& item) $/;"	f	class:swig::SwigPtr_PyObject
+operator =	kama_wrap.cxx	/^    SwigVar_PyObject & operator = (PyObject* obj)$/;"	f	struct:swig::SwigVar_PyObject
+operator =	kama_wrap.cxx	/^  SwigValueWrapper& operator=(const T& t) { SwigMovePointer tmp(new T(t)); pointer = tmp; return *this; }$/;"	f	class:SwigValueWrapper
+operator ==	kama_wrap.cxx	/^    bool operator == (const SwigPyIterator& x)  const$/;"	f	struct:swig::SwigPyIterator
+operator PyObject *	kama_wrap.cxx	/^    operator PyObject *() const$/;"	f	class:swig::SwigPtr_PyObject
+operator T&	kama_wrap.cxx	/^  operator T&() const { return *pointer.ptr; }$/;"	f	class:SwigValueWrapper
+own	kama_wrap.cxx	/^  int own;$/;"	m	struct:__anon3	file:
+owndata	kama_wrap.cxx	/^  int                    owndata;		\/* flag if the structure owns the clientdata *\/$/;"	m	struct:swig_type_info	file:
+pack	kama_wrap.cxx	/^  void *pack;$/;"	m	struct:__anon4	file:
+parse	build/lib.linux-x86_64-3.6/kama.py	/^    def parse(self, *args): return _kama.Tagger_parse(self, *args)$/;"	m	class:Tagger
+parse	kama.cpp	/^	std::vector<Kama::Node>* Tagger::parse(const char* str){$/;"	f	class:Kama::Tagger
+parse	kama.cpp	/^	std::vector<Kama::Node>* Tagger::parse(const char* str, unsigned int nbest){$/;"	f	class:Kama::Tagger
+parse	kama.py	/^    def parse(self, *args): return _kama.Tagger_parse(self, *args)$/;"	m	class:Tagger
+parse	lib/python3.6/site-packages/kama.py	/^    def parse(self, *args): return _kama.Tagger_parse(self, *args)$/;"	m	class:Tagger
+parseMeCabNode	kama.cpp	/^	Node Tagger::parseMeCabNode(const MeCab::Node* node, unsigned int nbest){$/;"	f	class:Kama::Tagger
+pointer	kama_wrap.cxx	/^  } pointer;$/;"	m	class:SwigValueWrapper	typeref:struct:SwigValueWrapper::SwigMovePointer	file:
+posid	mecab.h	/^  unsigned short        posid;$/;"	m	struct:mecab_node_t
+prev	kama_wrap.cxx	/^  struct swig_cast_info  *prev;			\/* pointer to the previous cast *\/$/;"	m	struct:swig_cast_info	typeref:struct:swig_cast_info::swig_cast_info	file:
+prev	mecab.h	/^  struct mecab_node_t  *prev;$/;"	m	struct:mecab_node_t	typeref:struct:mecab_node_t::mecab_node_t
+previous	build/lib.linux-x86_64-3.6/kama.py	/^    def previous(self): return _kama.SwigPyIterator_previous(self)$/;"	m	class:SwigPyIterator
+previous	kama.py	/^    def previous(self): return _kama.SwigPyIterator_previous(self)$/;"	m	class:SwigPyIterator
+previous	kama_wrap.cxx	/^    PyObject *previous()$/;"	f	struct:swig::SwigPyIterator
+previous	lib/python3.6/site-packages/kama.py	/^    def previous(self): return _kama.SwigPyIterator_previous(self)$/;"	m	class:SwigPyIterator
+printStopword	build/lib.linux-x86_64-3.6/kama.py	/^    def printStopword(self): return _kama.Tagger_printStopword(self)$/;"	m	class:Tagger
+printStopword	kama.cpp	/^	void Tagger::printStopword(){$/;"	f	class:Kama::Tagger
+printStopword	kama.py	/^    def printStopword(self): return _kama.Tagger_printStopword(self)$/;"	m	class:Tagger
+printStopword	lib/python3.6/site-packages/kama.py	/^    def printStopword(self): return _kama.Tagger_printStopword(self)$/;"	m	class:Tagger
+prob	mecab.h	/^  float                 prob;$/;"	m	struct:mecab_node_t
+prob	mecab.h	/^  float                prob;$/;"	m	struct:mecab_path_t
+ptr	kama_wrap.cxx	/^    T *ptr;$/;"	m	struct:SwigValueWrapper::SwigMovePointer	file:
+ptr	kama_wrap.cxx	/^  void *ptr;$/;"	m	struct:__anon3	file:
+ptype	kama_wrap.cxx	/^  swig_type_info **ptype;$/;"	m	struct:swig_const_info	file:
+pvalue	kama_wrap.cxx	/^  void   *pvalue;$/;"	m	struct:swig_const_info	file:
+py_modules	setup.py	/^	py_modules = ["kama"],$/;"	v
+pytype	kama_wrap.cxx	/^  PyTypeObject *pytype;$/;"	m	struct:__anon2	file:
+rcAttr	mecab.h	/^  unsigned short        rcAttr;$/;"	m	struct:mecab_node_t
+readbufferproc	kama_wrap.cxx	/^typedef getreadbufferproc readbufferproc;$/;"	t	file:
+rlength	mecab.h	/^  unsigned short        rlength;$/;"	m	struct:mecab_node_t
+rnext	mecab.h	/^  struct mecab_path_t* rnext;$/;"	m	struct:mecab_path_t	typeref:struct:mecab_path_t::mecab_path_t
+rnode	mecab.h	/^  struct mecab_node_t* rnode;$/;"	m	struct:mecab_path_t	typeref:struct:mecab_path_t::mecab_node_t
+rpath	mecab.h	/^  struct mecab_path_t  *rpath;$/;"	m	struct:mecab_node_t	typeref:struct:mecab_node_t::mecab_path_t
+rsize	mecab.h	/^  unsigned int                    rsize;$/;"	m	struct:mecab_dictionary_info_t
+save	kama_wrap.cxx	/^         PyThreadState *save;$/;"	m	class:SWIG_Python_Thread_Allow	file:
+segcountproc	kama_wrap.cxx	/^typedef getsegcountproc segcountproc;$/;"	t	file:
+setStopwordList	build/lib.linux-x86_64-3.6/kama.py	/^    def setStopwordList(self, *args): return _kama.Tagger_setStopwordList(self, *args)$/;"	m	class:Tagger
+setStopwordList	kama.cpp	/^	void Tagger::setStopwordList(std::list<const char*> stopwordList){$/;"	f	class:Kama::Tagger
+setStopwordList	kama.py	/^    def setStopwordList(self, *args): return _kama.Tagger_setStopwordList(self, *args)$/;"	m	class:Tagger
+setStopwordList	lib/python3.6/site-packages/kama.py	/^    def setStopwordList(self, *args): return _kama.Tagger_setStopwordList(self, *args)$/;"	m	class:Tagger
+set_attr	kama_wrap.cxx	/^    int       (*set_attr)(PyObject *); \/* Set the value *\/$/;"	m	struct:swig_globalvar	file:
+size	kama_wrap.cxx	/^  size_t                 size;		        \/* Number of types in this module *\/$/;"	m	struct:swig_module_info	file:
+size	kama_wrap.cxx	/^  size_t size;$/;"	m	struct:__anon4	file:
+size	mecab.h	/^  unsigned int                    size;$/;"	m	struct:mecab_dictionary_info_t
+slots	kama_wrap.cxx	/^  PyObject *name, *slots;$/;"	m	struct:__anon1	file:
+ssizeargfunc	kama_wrap.cxx	/^typedef intargfunc ssizeargfunc;$/;"	t	file:
+ssizeobjargproc	kama_wrap.cxx	/^typedef intobjargproc ssizeobjargproc;$/;"	t	file:
+ssizessizeargfunc	kama_wrap.cxx	/^typedef intintargfunc ssizessizeargfunc;$/;"	t	file:
+ssizessizeobjargproc	kama_wrap.cxx	/^typedef intintobjargproc ssizessizeobjargproc;$/;"	t	file:
+stat	mecab.h	/^  unsigned char         stat;$/;"	m	struct:mecab_node_t
+state	kama_wrap.cxx	/^         PyGILState_STATE state;$/;"	m	class:SWIG_Python_Thread_Block	file:
+status	kama_wrap.cxx	/^         bool status;$/;"	m	class:SWIG_Python_Thread_Allow	file:
+status	kama_wrap.cxx	/^         bool status;$/;"	m	class:SWIG_Python_Thread_Block	file:
+stop_iteration	kama_wrap.cxx	/^  struct stop_iteration {$/;"	s	namespace:swig	file:
+stopwordList	kama.h	/^			std::set<std::string> stopwordList;$/;"	m	class:Kama::Tagger
+str	kama_wrap.cxx	/^  const char             *str;			\/* human readable name of this type *\/$/;"	m	struct:swig_type_info	file:
+surface	kama.h	/^		char* surface;$/;"	m	struct:Kama::_Node
+surface	mecab.h	/^  const char           *surface;$/;"	m	struct:mecab_node_t
+swig	kama_wrap.cxx	/^namespace swig {$/;"	n	file:
+swig_cast_info	kama_wrap.cxx	/^typedef struct swig_cast_info {$/;"	s	file:
+swig_cast_info	kama_wrap.cxx	/^} swig_cast_info;$/;"	t	typeref:struct:swig_cast_info	file:
+swig_cast_initial	kama_wrap.cxx	/^static swig_cast_info *swig_cast_initial[] = {$/;"	v	file:
+swig_const_info	kama_wrap.cxx	/^typedef struct swig_const_info {$/;"	s	file:
+swig_const_info	kama_wrap.cxx	/^} swig_const_info;$/;"	t	typeref:struct:swig_const_info	file:
+swig_const_table	kama_wrap.cxx	/^static swig_const_info swig_const_table[] = {$/;"	v	file:
+swig_converter_func	kama_wrap.cxx	/^typedef void *(*swig_converter_func)(void *, int *);$/;"	t	file:
+swig_dycast_func	kama_wrap.cxx	/^typedef struct swig_type_info *(*swig_dycast_func)(void **);$/;"	t	typeref:struct:swig_dycast_func	file:
+swig_globalvar	kama_wrap.cxx	/^  typedef struct swig_globalvar {$/;"	s	file:
+swig_globalvar	kama_wrap.cxx	/^  } swig_globalvar;$/;"	t	typeref:struct:swig_globalvar	file:
+swig_import_helper	build/lib.linux-x86_64-3.6/kama.py	/^    def swig_import_helper():$/;"	f
+swig_import_helper	kama.py	/^    def swig_import_helper():$/;"	f
+swig_import_helper	lib/python3.6/site-packages/kama.py	/^    def swig_import_helper():$/;"	f
+swig_module	kama_wrap.cxx	/^static swig_module_info swig_module = {swig_types, 6, 0, 0, 0, 0};$/;"	v	file:
+swig_module_info	kama_wrap.cxx	/^typedef struct swig_module_info {$/;"	s	file:
+swig_module_info	kama_wrap.cxx	/^} swig_module_info;$/;"	t	typeref:struct:swig_module_info	file:
+swig_owntype	kama_wrap.cxx	1178;"	d	file:
+swig_this	kama_wrap.cxx	/^static PyObject *swig_this = NULL;$/;"	v	file:
+swig_type_info	kama_wrap.cxx	/^typedef struct swig_type_info {$/;"	s	file:
+swig_type_info	kama_wrap.cxx	/^} swig_type_info;$/;"	t	typeref:struct:swig_type_info	file:
+swig_type_initial	kama_wrap.cxx	/^static swig_type_info *swig_type_initial[] = {$/;"	v	file:
+swig_types	kama_wrap.cxx	/^static swig_type_info *swig_types[7];$/;"	v	file:
+swig_varlink_dealloc	kama_wrap.cxx	/^  swig_varlink_dealloc(swig_varlinkobject *v) {$/;"	f
+swig_varlink_getattr	kama_wrap.cxx	/^  swig_varlink_getattr(swig_varlinkobject *v, char *n) {$/;"	f
+swig_varlink_print	kama_wrap.cxx	/^  swig_varlink_print(swig_varlinkobject *v, FILE *fp, int SWIGUNUSEDPARM(flags)) {$/;"	f
+swig_varlink_setattr	kama_wrap.cxx	/^  swig_varlink_setattr(swig_varlinkobject *v, char *n, PyObject *p) {$/;"	f
+swig_varlink_str	kama_wrap.cxx	/^  swig_varlink_str(swig_varlinkobject *v) {$/;"	f
+swig_varlink_type	kama_wrap.cxx	/^  swig_varlink_type(void) {$/;"	f
+swig_varlinkobject	kama_wrap.cxx	/^  typedef struct swig_varlinkobject {$/;"	s	file:
+swig_varlinkobject	kama_wrap.cxx	/^  } swig_varlinkobject;$/;"	t	typeref:struct:swig_varlinkobject	file:
+swigobject_methods	kama_wrap.cxx	/^swigobject_methods[] = {$/;"	v	file:
+ty	kama_wrap.cxx	/^  swig_type_info *ty;$/;"	m	struct:__anon3	file:
+ty	kama_wrap.cxx	/^  swig_type_info *ty;$/;"	m	struct:__anon4	file:
+type	kama_wrap.cxx	/^  PyTypeObject type;$/;"	m	struct:__anon1	file:
+type	kama_wrap.cxx	/^  int type;$/;"	m	struct:swig_const_info	file:
+type	kama_wrap.cxx	/^  swig_type_info         *type;			\/* pointer to type that is equivalent to this type *\/$/;"	m	struct:swig_cast_info	file:
+type	mecab.h	/^  int                             type;$/;"	m	struct:mecab_dictionary_info_t
+type_initial	kama_wrap.cxx	/^  swig_type_info         **type_initial;	\/* Array of initially generated type structures *\/$/;"	m	struct:swig_module_info	file:
+types	kama_wrap.cxx	/^  swig_type_info         **types;		\/* Array of pointers to swig_type_info structures that are in this module *\/$/;"	m	struct:swig_module_info	file:
+url	setup.py	/^	url = '',$/;"	v
+value	build/lib.linux-x86_64-3.6/kama.py	/^    def value(self): return _kama.SwigPyIterator_value(self)$/;"	m	class:SwigPyIterator
+value	kama.py	/^    def value(self): return _kama.SwigPyIterator_value(self)$/;"	m	class:SwigPyIterator
+value	lib/python3.6/site-packages/kama.py	/^    def value(self): return _kama.SwigPyIterator_value(self)$/;"	m	class:SwigPyIterator
+vars	kama_wrap.cxx	/^    swig_globalvar *vars;$/;"	m	struct:swig_varlinkobject	file:
+version	mecab.h	/^  unsigned short                  version;$/;"	m	struct:mecab_dictionary_info_t
+version	setup.py	/^	version = '0.0.1',$/;"	v
+wcost	mecab.h	/^  short                 wcost;$/;"	m	struct:mecab_node_t
+writebufferproc	kama_wrap.cxx	/^typedef getwritebufferproc writebufferproc;$/;"	t	file:
+~Lattice	mecab.h	/^  virtual ~Lattice() {}$/;"	f	class:MeCab::Lattice
+~Model	mecab.h	/^  virtual ~Model() {}$/;"	f	class:MeCab::Model
+~SWIG_Python_Thread_Allow	kama_wrap.cxx	/^         ~SWIG_Python_Thread_Allow() { end(); }$/;"	f	class:SWIG_Python_Thread_Allow
+~SWIG_Python_Thread_Block	kama_wrap.cxx	/^         ~SWIG_Python_Thread_Block() { end(); }$/;"	f	class:SWIG_Python_Thread_Block
+~SwigMovePointer	kama_wrap.cxx	/^    ~SwigMovePointer() { delete ptr; }$/;"	f	struct:SwigValueWrapper::SwigMovePointer
+~SwigPtr_PyObject	kama_wrap.cxx	/^    ~SwigPtr_PyObject() $/;"	f	class:swig::SwigPtr_PyObject
+~SwigPyIterator	kama_wrap.cxx	/^    virtual ~SwigPyIterator() {}$/;"	f	struct:swig::SwigPyIterator
+~Tagger	kama.h	/^			~Tagger(){$/;"	f	class:Kama::Tagger
+~Tagger	mecab.h	/^  virtual ~Tagger() {}$/;"	f	class:MeCab::Tagger
